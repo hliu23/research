@@ -1,1 +1,5 @@
-.venv
+.venv/
+exe/
+system/
+.env
+notes.txt
