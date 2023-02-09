@@ -11,7 +11,7 @@ class CustomException(Exception):
 
 def checkDir(dirList):
    for dir in dirList:
-      if not os.path.isdir(dir): os.mkdir(dir)
+      if not os.path.isdir(dir): os.makedirs(dir)
 
 def format_date(string):
    match = re.search("(?P<month>[A-Za-z.]+) (?P<day>[0-9]+), (?P<year>[0-9]+)", string)
