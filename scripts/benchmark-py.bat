@@ -12,4 +12,4 @@ for %%b in (%BENCHMARKS%) do (
   echo Executing Benchmark %%b...
   %HYPERFINE_PATH% --warmup %NUM_OF_WARMUP_RUNS% --runs %NUM_OF_RUNS% --show-output --export-json %dpath%\%%b\%timestamp%.json "%INSTALL_PATH%\python\python.exe %BENCHMARKS_PATH%\%lang%\harness.py %%b %NUM_OF_ITERATIONS% %NUM_OF_INVOCATIONS%" >> %dpath%\%%b\%timestamp%.log
 )
-@REM time-unit?
+@REM
