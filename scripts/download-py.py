@@ -32,14 +32,14 @@ class Release:
 
    def __init__(self, tag):
       self.tag = tag
-      self.url = self.find_url()
       self.end_with_zero = False
+      self.url = self.find_url()
 
    def format_tag(self):
       # no zero at the end of tag
       if (self.tag[len(self.tag)-1:] == "0"):
-         mod_tag = self.tag[:len(self.tag)-2]
          self.end_with_zero = True
+         mod_tag = self.tag[:len(self.tag)-2]
       else: mod_tag = self.tag
       return mod_tag
    
@@ -83,6 +83,7 @@ class Release:
       if (self.in_range() or self.in_range() == "N/A"):
          res = test(self.tag)
          if (res != "N/A"): return res
+         self.format_tag()
          if self.end_with_zero: return test(self.format_tag())
 
       return "N/A"
@@ -95,6 +96,7 @@ if (len(sys.argv)-1 != 4): raise CustomException("Wrong number of arguments (exp
 SCRIPT_NAME, RAW_DATA_PATH, TEMP_DATA_PATH, COMPILED_DATA_PATH, DOWNLOAD_PATH = sys.argv
 checkDir([RAW_DATA_PATH, TEMP_DATA_PATH, DOWNLOAD_PATH])
 
+# bug: if does not already exists
 release_data_file = RAW_DATA_PATH + "\\releases.csv"
 temp_reference_file = TEMP_DATA_PATH + "\\releases.txt"
 delete = input("Delete existing data? (y/n) ")
