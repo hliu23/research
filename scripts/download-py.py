@@ -110,7 +110,6 @@ tags = document_fromstring(element.text).find_class("release-number")
 dates = document_fromstring(element.text).find_class("release-date")
 if len(tags) != len(dates): raise CustomException("Release dates do not match release numbers")
 
-
 with open(release_data_file, "a") as release_data:
    with open(temp_reference_file, "a") as temp_reference:
       for i in range(1, len(tags)):
@@ -122,5 +121,5 @@ with open(release_data_file, "a") as release_data:
          release_data.write(tag + "," + format_date(date) + "," + release.url + "\n")
          if (release.url != "N/A"): 
             temp_reference.write(release.tag + "\n")
-            # download(release.url, release.tag, DOWNLOAD_PATH)
+            download(release.url, release.tag, DOWNLOAD_PATH)
             print("Successfully downloaded release " + tag)
