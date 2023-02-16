@@ -10,7 +10,6 @@ setlocal ENABLEDELAYEDEXPANSION
 
 for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
   set release=%%t
-  echo %%t
   call %~dp0/install-py.bat
   call %~dp0/benchmark-py.bat
   call %~dp0/uninstall-py.bat
@@ -23,11 +22,7 @@ for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
   @REM   echo Release %%t is incompatible
   @REM   set /a incompatible=incompatible+1
   @REM   if (%incompatible%) GEQ 5 (
-
-      
   @REM   )
-
-
   @REM )
   
 )
