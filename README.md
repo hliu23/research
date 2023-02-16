@@ -13,3 +13,11 @@
 - hyperfine or rebench?
 - hyperfine: warmup runs
 - actual results?
+
+- call the command multiple times
+- multiple invocations and multiple iterations
+
+- all run a certain number of trials
+- confidence interval calculated
+- for those that are under
+- increase until confidence interval reach the desired level
