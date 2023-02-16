@@ -1,5 +1,6 @@
-.venv/
-exe/
-system/
-.env
 notes.txt
+
+.venv/
+artifacts/
+data/
+scripts/env.conf
