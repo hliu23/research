@@ -9,18 +9,13 @@ set release=3.9.12
 
 @REM setlocal ENABLEDELAYEDEXPANSION
 
-call %~dp0/install-py.bat
-@REM call %~dp0/benchmark-py.bat
-@REM call %~dp0/uninstall-py.bat
-
-@REM for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
-@REM   set release=%%t
-@REM   echo %%t
-@REM   call %~dp0/install-py.bat
-@REM   call %~dp0/benchmark-py.bat
-@REM   call %~dp0/uninstall-py.bat
-
-@REM   if errorlevel 1 echo %errorlevel%
+for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
+  set release=%%t
+  call %~dp0/install-py.bat
+  call %~dp0/benchmark-py.bat
+  call %~dp0/uninstall-py.bat
+  
+  if errorlevel 1 echo %errorlevel%
 
 
 
@@ -28,11 +23,7 @@ call %~dp0/install-py.bat
   @REM   echo Release %%t is incompatible
   @REM   set /a incompatible=incompatible+1
   @REM   if (%incompatible%) GEQ 5 (
-
-      
   @REM   )
-
-
   @REM )
   
 @REM )
