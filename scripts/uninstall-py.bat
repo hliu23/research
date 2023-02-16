@@ -1,2 +1,3 @@
 echo Uninstalling %lang% Version %release% at %INSTALL_PATH%\%lang%...
-%DOWNLOAD_PATH%\%lang%\%release%.exe /uninstall /passive
+%TEMP_EXE% /uninstall /passive
+@REM %DOWNLOAD_PATH%\%lang%\%release%.exe /uninstall /passive
