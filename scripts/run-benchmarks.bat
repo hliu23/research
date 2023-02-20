@@ -3,19 +3,24 @@
 @REM set environmental variables
 for /f "tokens=*" %%l in ('type %~dp0\env.conf') do set %%l
 set lang=Python
-set release=3.9.12
+set release=3.10.1
 
 @REM set /a incompatible=0
 
 @REM setlocal ENABLEDELAYEDEXPANSION
 
-for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
-  set release=%%t
-  call %~dp0/install-py.bat
-  call %~dp0/benchmark-py.bat
-  call %~dp0/uninstall-py.bat
+call %~dp0/install-py.bat
+call %~dp0/benchmark-py.bat
+call %~dp0/uninstall-py.bat
   
-  if errorlevel 1 echo %errorlevel%
+REM for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
+  REM set release=%%t
+  REM call %~dp0/install-py.bat
+  REM call %~dp0/benchmark-py.bat
+  REM call %~dp0/uninstall-py.bat
+  
+  REM if errorlevel 1 echo %errorlevel%
+REM )
 
 
 
@@ -29,8 +34,4 @@ for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
 @REM )
 @REM endlocal
 
-
 @REM @REM 216 for incompatible
-
-
-@REM @REM uninstall and delete

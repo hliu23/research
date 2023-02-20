@@ -26,6 +26,8 @@
          # averted: going down the list?
 
 
+- some needs precisely 15 runs
+
 Release schedules
 - https://peps.python.org/
 - https://www.python.org/downloads/
@@ -48,3 +50,11 @@ when erred out, delete dir
 manually delete releases from before 3.7, for incompatible features
 
 powered on, restarted, with few other programs running
+ran the programs
+copied the mean run time from the hyperfine json and compiled in excel
+archived outside the files
+
+
+feb 20, 2023
+- delete python from path
+- uninstall python 3.10.10 using apps and features
