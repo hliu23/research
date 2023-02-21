@@ -9,15 +9,12 @@ set release=3.10.1
 
 @REM setlocal ENABLEDELAYEDEXPANSION
 
-call %~dp0/install-py.bat
-call %~dp0/benchmark-py.bat
-call %~dp0/uninstall-py.bat
-  
+
 REM for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
   REM set release=%%t
-  REM call %~dp0/install-py.bat
-  REM call %~dp0/benchmark-py.bat
-  REM call %~dp0/uninstall-py.bat
+  REM call %~dp0/install.bat
+  REM call %~dp0/benchmark.bat
+  REM call %~dp0/uninstall.bat
   
   REM if errorlevel 1 echo %errorlevel%
 REM )
