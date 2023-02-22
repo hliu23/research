@@ -2,11 +2,9 @@ set udate=%date:~4%
 set utime=%time:~1,-3%
 set timestamp=%udate:/=_%__%utime::=_%
 
-echo %timestamp%
-
 set dpath=%RAW_DATA_PATH%\%lang%\%release%
 
-
+echo %BENCHMARKS%
 for %%b in (%BENCHMARKS%) do (
   if not exist %dpath%\%%b mkdir %dpath%\%%b
   

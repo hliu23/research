@@ -3,15 +3,16 @@
 @REM set environmental variables
 for /f "tokens=*" %%l in ('type %~dp0\env.conf') do set %%l
 set lang=Python
-set release=3.10.1
+set release=3.11.2
+
 
 @REM set /a incompatible=0
 
 @REM setlocal ENABLEDELAYEDEXPANSION
 
-call %~dp0/install-py.bat
-call %~dp0/benchmark-py.bat
-call %~dp0/uninstall-py.bat
+  call %~dp0/install-py.bat
+  call %~dp0/benchmark-py.bat
+  call %~dp0/uninstall-py.bat
   
 REM for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
   REM set release=%%t
