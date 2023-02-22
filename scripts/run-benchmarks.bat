@@ -1,6 +1,6 @@
 @echo off
 
-@REM set environmental variables
+REM set environmental variables
 for /f "tokens=*" %%l in ('type %~dp0\env.conf') do set %%l
 set lang=Python
 set release=3.11.2
@@ -11,7 +11,7 @@ set release=3.11.2
 @REM setlocal ENABLEDELAYEDEXPANSION
 
   call %~dp0/install.bat
-  call %~dp0/benchmark.bat
+  call %~dp0/benchmark.bat > test-benchmarks.txt
   call %~dp0/uninstall.bat
   
 REM for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
