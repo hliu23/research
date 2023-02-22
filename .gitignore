@@ -2,5 +2,6 @@ notes.txt
 
 .venv/
 artifacts/
-data/
+data/raw
+data/temp
 scripts/env.conf

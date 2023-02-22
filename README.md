@@ -32,16 +32,25 @@
 - removed all python3 versions before 3.7, as well as all python2 versions because known incompatible with code
 - remove installed versions from apps and programs
 - prepared release.txt and env.conf, plugged in computer, cleared old data, restart
+- installed python 3.6.8 to avoid collusion (w/o/ test suite or IDLE, add to path selected)
 
 ### Data to present
 - programming languages selected and basic characteristics? websites
 - benchmarks and data on them
 - actual graphs
 - information about device?
+- csv, then save as excel once final
 
 #### Benchmarks
 - average time to run on a quiet, unplugged pc, coefficient of variance with 15 runs: standard dev / mean
 - python 3.11.2 - newest release at the time, relatively slower language
+- selected benchmarks that are compatible
+- selected benchmarks that are compatible
+- selected benchmarks with mean run time under 5 seconds
+	- time constraints
+- coefficient of variation?
+	- take data from DeltaBlue with a grain of salt
+- 9 benchmarks selected: DeltaBlue Json Bounce List Permute Queens Sieve Storage Towers
 
 #### Plan for data
 - correlation and trendline for each, meet with all the data
