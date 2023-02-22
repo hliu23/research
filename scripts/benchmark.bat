@@ -5,6 +5,7 @@ set timestamp=%udate:/=_%__%utime::=_%
 set dpath=%RAW_DATA_PATH%\%lang%\%release%
 
 echo %BENCHMARKS%
+
 for %%b in (%BENCHMARKS%) do (
   if not exist %dpath%\%%b mkdir %dpath%\%%b
   
