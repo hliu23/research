@@ -29,10 +29,11 @@
 	- CD errors out in the code
 - 15 runs because: required for some benchmarks (Havlak?), now need to be consistent across benchmarks?
 - all releases numbers from website, exe downloaded long ago
-- removed all python3 versions before 3.7, as well as all python2 versions because known incompatible with code
+- removed all python3 versions before 3.7, as well as all python2 versions from releases.txt because known incompatible with code
 - remove installed versions from apps and programs
 - prepared release.txt and env.conf, plugged in computer, cleared old data, restart
 - installed python 3.6.8 to avoid collusion (w/o/ test suite or IDLE, add to path selected)
+- no interference except checking on progress
 
 ### Data to present
 - programming languages selected and basic characteristics? websites
@@ -55,3 +56,8 @@
 #### Plan for data
 - correlation and trendline for each, meet with all the data
 - under .5 - weakly correlated
+
+
+- 3.8.4 was collected while unplugged
+- and 3.8.2 was disrupted
+- rerun by changing release.txt, moving old data
