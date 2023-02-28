@@ -12,18 +12,15 @@ set release=3.11.1
 
 @REM setlocal ENABLEDELAYEDEXPANSION
 
+  
+for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
+  set release=%%t
   call %~dp0/install.bat
   call %~dp0/benchmark.bat
   call %~dp0/uninstall.bat
   
-REM for /f "tokens=*" %%t in ('type %TEMP_DATA_PATH%\%lang%\releases.txt') do (
-  REM set release=%%t
-  REM call %~dp0/install.bat
-  REM call %~dp0/benchmark.bat
-  REM call %~dp0/uninstall.bat
-  
-  REM if errorlevel 1 echo %errorlevel%
-REM )
+  if errorlevel 1 echo %errorlevel%
+)
 
 
 
