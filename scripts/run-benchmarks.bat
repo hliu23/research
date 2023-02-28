@@ -1,9 +1,11 @@
 @echo off
 
+REM first parameter needs to be the language name
 REM set environmental variables
 for /f "tokens=*" %%l in ('type %~dp0\env.conf') do set %%l
-set lang=Python
-set release=3.11.2
+set lang=%1
+set release=3.11.1
+
 
 
 @REM set /a incompatible=0

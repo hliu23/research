@@ -52,7 +52,10 @@
 - coefficient of variation?
 	- take data from DeltaBlue with a grain of salt
 - 9 benchmarks selected: DeltaBlue Json Bounce List Permute Queens Sieve Storage Towers
-
+- power disconnected at about 3.10.7, rerun if possible
+- due to space limitations, only LTS versions are counted in NodeJS since they are the only types offered long-term support, and so should be equalivent to releases in other programs
+- initial release at 2020
+- statistics outliers detected for 3.9.11 and 3.9.10
 #### Plan for data
 - correlation and trendline for each, meet with all the data
 - under .5 - weakly correlated

@@ -1,3 +1,3 @@
 echo Uninstalling %lang% Version %release% at %INSTALL_PATH%\%lang%...
-REM %TEMP_EXE% /uninstall /passive
-%DOWNLOAD_PATH%\%lang%\%release%.exe /uninstall /passive
+
+if %lang%==Python (DOWNLOAD_PATH%\%lang%\%release%.exe /uninstall /passive)
