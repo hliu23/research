@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py Json 10 15
+Starting Json benchmark ...
+Json: iterations=1 runtime: 368877us
+Json: iterations=1 runtime: 359860us
+Json: iterations=1 runtime: 345931us
+Json: iterations=1 runtime: 338565us
+Json: iterations=1 runtime: 345607us
+Json: iterations=1 runtime: 345078us
+Json: iterations=1 runtime: 354785us
+Json: iterations=1 runtime: 349317us
+Json: iterations=1 runtime: 344279us
+Json: iterations=1 runtime: 351877us
+Json: iterations=10 average: 350418us total: 3504176us
+
+
+Total Runtime: 3504176us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 345376us
+Json: iterations=1 runtime: 338685us
+Json: iterations=1 runtime: 343110us
+Json: iterations=1 runtime: 352588us
+Json: iterations=1 runtime: 352974us
+Json: iterations=1 runtime: 369257us
+Json: iterations=1 runtime: 355524us
+Json: iterations=1 runtime: 359749us
+Json: iterations=1 runtime: 359381us
+Json: iterations=1 runtime: 350451us
+Json: iterations=10 average: 352710us total: 3527095us
+
+
+Total Runtime: 3527095us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 344280us
+Json: iterations=1 runtime: 347034us
+Json: iterations=1 runtime: 374447us
+Json: iterations=1 runtime: 342975us
+Json: iterations=1 runtime: 336094us
+Json: iterations=1 runtime: 344580us
+Json: iterations=1 runtime: 347332us
+Json: iterations=1 runtime: 330994us
+Json: iterations=1 runtime: 331695us
+Json: iterations=1 runtime: 337832us
+Json: iterations=10 average: 343726us total: 3437263us
+
+
+Total Runtime: 3437263us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 325906us
+Json: iterations=1 runtime: 324820us
+Json: iterations=1 runtime: 334554us
+Json: iterations=1 runtime: 326171us
+Json: iterations=1 runtime: 328057us
+Json: iterations=1 runtime: 330225us
+Json: iterations=1 runtime: 335884us
+Json: iterations=1 runtime: 329981us
+Json: iterations=1 runtime: 331388us
+Json: iterations=1 runtime: 324593us
+Json: iterations=10 average: 329158us total: 3291579us
+
+
+Total Runtime: 3291579us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 328928us
+Json: iterations=1 runtime: 334826us
+Json: iterations=1 runtime: 328907us
+Json: iterations=1 runtime: 329973us
+Json: iterations=1 runtime: 330079us
+Json: iterations=1 runtime: 341836us
+Json: iterations=1 runtime: 339384us
+Json: iterations=1 runtime: 340019us
+Json: iterations=1 runtime: 330575us
+Json: iterations=1 runtime: 326400us
+Json: iterations=10 average: 333093us total: 3330927us
+
+
+Total Runtime: 3330927us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 349624us
+Json: iterations=1 runtime: 337894us
+Json: iterations=1 runtime: 342763us
+Json: iterations=1 runtime: 340167us
+Json: iterations=1 runtime: 341764us
+Json: iterations=1 runtime: 357765us
+Json: iterations=1 runtime: 349437us
+Json: iterations=1 runtime: 346000us
+Json: iterations=1 runtime: 338161us
+Json: iterations=1 runtime: 338323us
+Json: iterations=10 average: 344190us total: 3441898us
+
+
+Total Runtime: 3441898us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 345494us
+Json: iterations=1 runtime: 330398us
+Json: iterations=1 runtime: 335561us
+Json: iterations=1 runtime: 336854us
+Json: iterations=1 runtime: 333332us
+Json: iterations=1 runtime: 339370us
+Json: iterations=1 runtime: 340277us
+Json: iterations=1 runtime: 333233us
+Json: iterations=1 runtime: 326225us
+Json: iterations=1 runtime: 334232us
+Json: iterations=10 average: 335498us total: 3354976us
+
+
+Total Runtime: 3354976us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 339515us
+Json: iterations=1 runtime: 337926us
+Json: iterations=1 runtime: 346993us
+Json: iterations=1 runtime: 342156us
+Json: iterations=1 runtime: 366688us
+Json: iterations=1 runtime: 422170us
+Json: iterations=1 runtime: 350527us
+Json: iterations=1 runtime: 359938us
+Json: iterations=1 runtime: 346981us
+Json: iterations=1 runtime: 347563us
+Json: iterations=10 average: 356046us total: 3560457us
+
+
+Total Runtime: 3560457us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 330448us
+Json: iterations=1 runtime: 332359us
+Json: iterations=1 runtime: 331229us
+Json: iterations=1 runtime: 330349us
+Json: iterations=1 runtime: 339710us
+Json: iterations=1 runtime: 340119us
+Json: iterations=1 runtime: 335067us
+Json: iterations=1 runtime: 334638us
+Json: iterations=1 runtime: 334028us
+Json: iterations=1 runtime: 335435us
+Json: iterations=10 average: 334338us total: 3343382us
+
+
+Total Runtime: 3343382us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 336457us
+Json: iterations=1 runtime: 339659us
+Json: iterations=1 runtime: 336562us
+Json: iterations=1 runtime: 335790us
+Json: iterations=1 runtime: 336282us
+Json: iterations=1 runtime: 347355us
+Json: iterations=1 runtime: 337777us
+Json: iterations=1 runtime: 341903us
+Json: iterations=1 runtime: 333483us
+Json: iterations=1 runtime: 332668us
+Json: iterations=10 average: 337794us total: 3377936us
+
+
+Total Runtime: 3377936us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 331093us
+Json: iterations=1 runtime: 336908us
+Json: iterations=1 runtime: 330582us
+Json: iterations=1 runtime: 341401us
+Json: iterations=1 runtime: 343399us
+Json: iterations=1 runtime: 334104us
+Json: iterations=1 runtime: 341290us
+Json: iterations=1 runtime: 340519us
+Json: iterations=1 runtime: 327601us
+Json: iterations=1 runtime: 328359us
+Json: iterations=10 average: 335526us total: 3355256us
+
+
+Total Runtime: 3355256us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 331607us
+Json: iterations=1 runtime: 335892us
+Json: iterations=1 runtime: 331266us
+Json: iterations=1 runtime: 330236us
+Json: iterations=1 runtime: 336197us
+Json: iterations=1 runtime: 341592us
+Json: iterations=1 runtime: 333562us
+Json: iterations=1 runtime: 339031us
+Json: iterations=1 runtime: 329790us
+Json: iterations=1 runtime: 329592us
+Json: iterations=10 average: 333876us total: 3338765us
+
+
+Total Runtime: 3338765us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 332658us
+Json: iterations=1 runtime: 329776us
+Json: iterations=1 runtime: 331595us
+Json: iterations=1 runtime: 331889us
+Json: iterations=1 runtime: 340368us
+Json: iterations=1 runtime: 334623us
+Json: iterations=1 runtime: 342197us
+Json: iterations=1 runtime: 346241us
+Json: iterations=1 runtime: 337157us
+Json: iterations=1 runtime: 329816us
+Json: iterations=10 average: 335632us total: 3356320us
+
+
+Total Runtime: 3356320us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 323884us
+Json: iterations=1 runtime: 322654us
+Json: iterations=1 runtime: 327846us
+Json: iterations=1 runtime: 322591us
+Json: iterations=1 runtime: 325375us
+Json: iterations=1 runtime: 325590us
+Json: iterations=1 runtime: 325636us
+Json: iterations=1 runtime: 328615us
+Json: iterations=1 runtime: 328570us
+Json: iterations=1 runtime: 331710us
+Json: iterations=10 average: 326247us total: 3262471us
+
+
+Total Runtime: 3262471us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 336889us
+Json: iterations=1 runtime: 323876us
+Json: iterations=1 runtime: 325485us
+Json: iterations=1 runtime: 325157us
+Json: iterations=1 runtime: 333676us
+Json: iterations=1 runtime: 329321us
+Json: iterations=1 runtime: 328699us
+Json: iterations=1 runtime: 328194us
+Json: iterations=1 runtime: 322699us
+Json: iterations=1 runtime: 322297us
+Json: iterations=10 average: 327629us total: 3276293us
+
+
+Total Runtime: 3276293us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 331426us
+Json: iterations=1 runtime: 328300us
+Json: iterations=1 runtime: 324817us
+Json: iterations=1 runtime: 323405us
+Json: iterations=1 runtime: 333375us
+Json: iterations=1 runtime: 326655us
+Json: iterations=1 runtime: 332813us
+Json: iterations=1 runtime: 329550us
+Json: iterations=1 runtime: 320466us
+Json: iterations=1 runtime: 328206us
+Json: iterations=10 average: 327901us total: 3279013us
+
+
+Total Runtime: 3279013us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 327459us
+Json: iterations=1 runtime: 326904us
+Json: iterations=1 runtime: 346350us
+Json: iterations=1 runtime: 336000us
+Json: iterations=1 runtime: 329048us
+Json: iterations=1 runtime: 331952us
+Json: iterations=1 runtime: 331638us
+Json: iterations=1 runtime: 338737us
+Json: iterations=1 runtime: 332362us
+Json: iterations=1 runtime: 326342us
+Json: iterations=10 average: 332679us total: 3326792us
+
+
+Total Runtime: 3326792us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 357419us
+Json: iterations=1 runtime: 347656us
+Json: iterations=1 runtime: 350429us
+Json: iterations=1 runtime: 357535us
+Json: iterations=1 runtime: 364081us
+Json: iterations=1 runtime: 353153us
+Json: iterations=1 runtime: 353237us
+Json: iterations=1 runtime: 352487us
+Json: iterations=1 runtime: 348035us
+Json: iterations=1 runtime: 349972us
+Json: iterations=10 average: 353400us total: 3534004us
+
+
+Total Runtime: 3534004us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 332494us
+Json: iterations=1 runtime: 331735us
+Json: iterations=1 runtime: 409167us
+Json: iterations=1 runtime: 368046us
+Json: iterations=1 runtime: 336949us
+Json: iterations=1 runtime: 329975us
+Json: iterations=1 runtime: 333932us
+Json: iterations=1 runtime: 331242us
+Json: iterations=1 runtime: 328977us
+Json: iterations=1 runtime: 326113us
+Json: iterations=10 average: 342863us total: 3428630us
+
+
+Total Runtime: 3428630us
+Starting Json benchmark ...
+Json: iterations=1 runtime: 337151us
+Json: iterations=1 runtime: 344701us
+Json: iterations=1 runtime: 339580us
+Json: iterations=1 runtime: 331510us
+Json: iterations=1 runtime: 339780us
+Json: iterations=1 runtime: 334301us
+Json: iterations=1 runtime: 337542us
+Json: iterations=1 runtime: 333759us
+Json: iterations=1 runtime: 335026us
+Json: iterations=1 runtime: 335353us
+Json: iterations=10 average: 336870us total: 3368703us
+
+
+Total Runtime: 3368703us
+  Time (mean ± σ):      3.413 s ±  0.087 s    [User: 3.386 s, System: 0.017 s]
+  Range (min … max):    3.303 s …  3.602 s    15 runs
+ 

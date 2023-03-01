@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "command": "C:\\Users\\test\\Documents\\research\\research\\artifacts\\installed\\python\\python.exe C:\\Users\\test\\Documents\\research\\research\\artifacts\\system\\are-we-fast-yet\\benchmarks\\Python\\harness.py Towers 10 15",
+      "mean": 0.9360811019999999,
+      "stddev": 0.023833062615882413,
+      "median": 0.932331042,
+      "user": 0.9019791666666668,
+      "system": 0.024083333333333335,
+      "min": 0.909917242,
+      "max": 1.005972542,
+      "times": [
+        0.909917242,
+        0.957696542,
+        0.925605342,
+        0.935005842,
+        0.911565042,
+        0.920874042,
+        0.943285342,
+        0.948778042,
+        0.936995342,
+        1.005972542,
+        0.932331042,
+        0.929025242,
+        0.941322542,
+        0.9105277420000001,
+        0.932314642
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py DeltaBlue 10 15
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2302us
+DeltaBlue: iterations=1 runtime: 2312us
+DeltaBlue: iterations=1 runtime: 2175us
+DeltaBlue: iterations=1 runtime: 2216us
+DeltaBlue: iterations=1 runtime: 2158us
+DeltaBlue: iterations=1 runtime: 2162us
+DeltaBlue: iterations=1 runtime: 2616us
+DeltaBlue: iterations=1 runtime: 4424us
+DeltaBlue: iterations=1 runtime: 3713us
+DeltaBlue: iterations=1 runtime: 2666us
+DeltaBlue: iterations=10 average: 2674us total: 26744us
+
+
+Total Runtime: 26744us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2892us
+DeltaBlue: iterations=1 runtime: 2225us
+DeltaBlue: iterations=1 runtime: 2261us
+DeltaBlue: iterations=1 runtime: 2142us
+DeltaBlue: iterations=1 runtime: 2165us
+DeltaBlue: iterations=1 runtime: 2229us
+DeltaBlue: iterations=1 runtime: 2171us
+DeltaBlue: iterations=1 runtime: 2242us
+DeltaBlue: iterations=1 runtime: 2146us
+DeltaBlue: iterations=1 runtime: 2192us
+DeltaBlue: iterations=10 average: 2266us total: 22665us
+
+
+Total Runtime: 22665us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2870us
+DeltaBlue: iterations=1 runtime: 2279us
+DeltaBlue: iterations=1 runtime: 2258us
+DeltaBlue: iterations=1 runtime: 2157us
+DeltaBlue: iterations=1 runtime: 2188us
+DeltaBlue: iterations=1 runtime: 2240us
+DeltaBlue: iterations=1 runtime: 2175us
+DeltaBlue: iterations=1 runtime: 2255us
+DeltaBlue: iterations=1 runtime: 2162us
+DeltaBlue: iterations=1 runtime: 2174us
+DeltaBlue: iterations=10 average: 2276us total: 22758us
+
+
+Total Runtime: 22758us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2851us
+DeltaBlue: iterations=1 runtime: 2236us
+DeltaBlue: iterations=1 runtime: 2239us
+DeltaBlue: iterations=1 runtime: 2134us
+DeltaBlue: iterations=1 runtime: 2159us
+DeltaBlue: iterations=1 runtime: 2224us
+DeltaBlue: iterations=1 runtime: 2152us
+DeltaBlue: iterations=1 runtime: 2241us
+DeltaBlue: iterations=1 runtime: 2152us
+DeltaBlue: iterations=1 runtime: 2164us
+DeltaBlue: iterations=10 average: 2255us total: 22552us
+
+
+Total Runtime: 22552us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2907us
+DeltaBlue: iterations=1 runtime: 2590us
+DeltaBlue: iterations=1 runtime: 2346us
+DeltaBlue: iterations=1 runtime: 2172us
+DeltaBlue: iterations=1 runtime: 2193us
+DeltaBlue: iterations=1 runtime: 2247us
+DeltaBlue: iterations=1 runtime: 2192us
+DeltaBlue: iterations=1 runtime: 2259us
+DeltaBlue: iterations=1 runtime: 2171us
+DeltaBlue: iterations=1 runtime: 2185us
+DeltaBlue: iterations=10 average: 2326us total: 23262us
+
+
+Total Runtime: 23262us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2864us
+DeltaBlue: iterations=1 runtime: 2310us
+DeltaBlue: iterations=1 runtime: 2243us
+DeltaBlue: iterations=1 runtime: 2152us
+DeltaBlue: iterations=1 runtime: 2183us
+DeltaBlue: iterations=1 runtime: 2242us
+DeltaBlue: iterations=1 runtime: 2176us
+DeltaBlue: iterations=1 runtime: 2246us
+DeltaBlue: iterations=1 runtime: 2179us
+DeltaBlue: iterations=1 runtime: 2192us
+DeltaBlue: iterations=10 average: 2279us total: 22787us
+
+
+Total Runtime: 22787us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2897us
+DeltaBlue: iterations=1 runtime: 2263us
+DeltaBlue: iterations=1 runtime: 2257us
+DeltaBlue: iterations=1 runtime: 2159us
+DeltaBlue: iterations=1 runtime: 2184us
+DeltaBlue: iterations=1 runtime: 2244us
+DeltaBlue: iterations=1 runtime: 2185us
+DeltaBlue: iterations=1 runtime: 2251us
+DeltaBlue: iterations=1 runtime: 2179us
+DeltaBlue: iterations=1 runtime: 2186us
+DeltaBlue: iterations=10 average: 2280us total: 22805us
+
+
+Total Runtime: 22805us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2857us
+DeltaBlue: iterations=1 runtime: 2287us
+DeltaBlue: iterations=1 runtime: 2277us
+DeltaBlue: iterations=1 runtime: 2225us
+DeltaBlue: iterations=1 runtime: 2218us
+DeltaBlue: iterations=1 runtime: 2268us
+DeltaBlue: iterations=1 runtime: 2200us
+DeltaBlue: iterations=1 runtime: 2275us
+DeltaBlue: iterations=1 runtime: 2189us
+DeltaBlue: iterations=1 runtime: 2213us
+DeltaBlue: iterations=10 average: 2301us total: 23009us
+
+
+Total Runtime: 23009us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2882us
+DeltaBlue: iterations=1 runtime: 2293us
+DeltaBlue: iterations=1 runtime: 2273us
+DeltaBlue: iterations=1 runtime: 2217us
+DeltaBlue: iterations=1 runtime: 2231us
+DeltaBlue: iterations=1 runtime: 2292us
+DeltaBlue: iterations=1 runtime: 2201us
+DeltaBlue: iterations=1 runtime: 2297us
+DeltaBlue: iterations=1 runtime: 2193us
+DeltaBlue: iterations=1 runtime: 2219us
+DeltaBlue: iterations=10 average: 2310us total: 23098us
+
+
+Total Runtime: 23098us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2911us
+DeltaBlue: iterations=1 runtime: 2374us
+DeltaBlue: iterations=1 runtime: 2507us
+DeltaBlue: iterations=1 runtime: 2386us
+DeltaBlue: iterations=1 runtime: 2479us
+DeltaBlue: iterations=1 runtime: 3536us
+DeltaBlue: iterations=1 runtime: 2303us
+DeltaBlue: iterations=1 runtime: 2301us
+DeltaBlue: iterations=1 runtime: 3318us
+DeltaBlue: iterations=1 runtime: 4690us
+DeltaBlue: iterations=10 average: 2880us total: 28805us
+
+
+Total Runtime: 28805us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2904us
+DeltaBlue: iterations=1 runtime: 2306us
+DeltaBlue: iterations=1 runtime: 2428us
+DeltaBlue: iterations=1 runtime: 2379us
+DeltaBlue: iterations=1 runtime: 2446us
+DeltaBlue: iterations=1 runtime: 2554us
+DeltaBlue: iterations=1 runtime: 2485us
+DeltaBlue: iterations=1 runtime: 2571us
+DeltaBlue: iterations=1 runtime: 2472us
+DeltaBlue: iterations=1 runtime: 2486us
+DeltaBlue: iterations=10 average: 2503us total: 25031us
+
+
+Total Runtime: 25031us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2850us
+DeltaBlue: iterations=1 runtime: 2357us
+DeltaBlue: iterations=1 runtime: 2461us
+DeltaBlue: iterations=1 runtime: 2363us
+DeltaBlue: iterations=1 runtime: 2446us
+DeltaBlue: iterations=1 runtime: 2515us
+DeltaBlue: iterations=1 runtime: 2412us
+DeltaBlue: iterations=1 runtime: 2619us
+DeltaBlue: iterations=1 runtime: 2439us
+DeltaBlue: iterations=1 runtime: 2465us
+DeltaBlue: iterations=10 average: 2493us total: 24927us
+
+
+Total Runtime: 24927us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2861us
+DeltaBlue: iterations=1 runtime: 2397us
+DeltaBlue: iterations=1 runtime: 2469us
+DeltaBlue: iterations=1 runtime: 2375us
+DeltaBlue: iterations=1 runtime: 2476us
+DeltaBlue: iterations=1 runtime: 2548us
+DeltaBlue: iterations=1 runtime: 2498us
+DeltaBlue: iterations=1 runtime: 2595us
+DeltaBlue: iterations=1 runtime: 2466us
+DeltaBlue: iterations=1 runtime: 2495us
+DeltaBlue: iterations=10 average: 2518us total: 25180us
+
+
+Total Runtime: 25180us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2861us
+DeltaBlue: iterations=1 runtime: 3303us
+DeltaBlue: iterations=1 runtime: 6200us
+DeltaBlue: iterations=1 runtime: 6281us
+DeltaBlue: iterations=1 runtime: 5864us
+DeltaBlue: iterations=1 runtime: 2656us
+DeltaBlue: iterations=1 runtime: 2470us
+DeltaBlue: iterations=1 runtime: 2567us
+DeltaBlue: iterations=1 runtime: 2527us
+DeltaBlue: iterations=1 runtime: 2555us
+DeltaBlue: iterations=10 average: 3728us total: 37284us
+
+
+Total Runtime: 37284us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2890us
+DeltaBlue: iterations=1 runtime: 2359us
+DeltaBlue: iterations=1 runtime: 2466us
+DeltaBlue: iterations=1 runtime: 2828us
+DeltaBlue: iterations=1 runtime: 2649us
+DeltaBlue: iterations=1 runtime: 2560us
+DeltaBlue: iterations=1 runtime: 2408us
+DeltaBlue: iterations=1 runtime: 2612us
+DeltaBlue: iterations=1 runtime: 2472us
+DeltaBlue: iterations=1 runtime: 2498us
+DeltaBlue: iterations=10 average: 2574us total: 25742us
+
+
+Total Runtime: 25742us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2907us
+DeltaBlue: iterations=1 runtime: 2388us
+DeltaBlue: iterations=1 runtime: 2480us
+DeltaBlue: iterations=1 runtime: 2372us
+DeltaBlue: iterations=1 runtime: 2486us
+DeltaBlue: iterations=1 runtime: 2548us
+DeltaBlue: iterations=1 runtime: 2555us
+DeltaBlue: iterations=1 runtime: 2549us
+DeltaBlue: iterations=1 runtime: 2454us
+DeltaBlue: iterations=1 runtime: 2547us
+DeltaBlue: iterations=10 average: 2529us total: 25286us
+
+
+Total Runtime: 25286us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2830us
+DeltaBlue: iterations=1 runtime: 2345us
+DeltaBlue: iterations=1 runtime: 2432us
+DeltaBlue: iterations=1 runtime: 2359us
+DeltaBlue: iterations=1 runtime: 3121us
+DeltaBlue: iterations=1 runtime: 2491us
+DeltaBlue: iterations=1 runtime: 2387us
+DeltaBlue: iterations=1 runtime: 2511us
+DeltaBlue: iterations=1 runtime: 2489us
+DeltaBlue: iterations=1 runtime: 2463us
+DeltaBlue: iterations=10 average: 2543us total: 25428us
+
+
+Total Runtime: 25428us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2887us
+DeltaBlue: iterations=1 runtime: 2378us
+DeltaBlue: iterations=1 runtime: 2468us
+DeltaBlue: iterations=1 runtime: 2363us
+DeltaBlue: iterations=1 runtime: 2501us
+DeltaBlue: iterations=1 runtime: 2524us
+DeltaBlue: iterations=1 runtime: 2515us
+DeltaBlue: iterations=1 runtime: 2565us
+DeltaBlue: iterations=1 runtime: 2538us
+DeltaBlue: iterations=1 runtime: 2549us
+DeltaBlue: iterations=10 average: 2529us total: 25288us
+
+
+Total Runtime: 25288us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2935us
+DeltaBlue: iterations=1 runtime: 2364us
+DeltaBlue: iterations=1 runtime: 2487us
+DeltaBlue: iterations=1 runtime: 2416us
+DeltaBlue: iterations=1 runtime: 2519us
+DeltaBlue: iterations=1 runtime: 2604us
+DeltaBlue: iterations=1 runtime: 2423us
+DeltaBlue: iterations=1 runtime: 2698us
+DeltaBlue: iterations=1 runtime: 2494us
+DeltaBlue: iterations=1 runtime: 2531us
+DeltaBlue: iterations=10 average: 2547us total: 25471us
+
+
+Total Runtime: 25471us
+Starting DeltaBlue benchmark ...
+DeltaBlue: iterations=1 runtime: 2856us
+DeltaBlue: iterations=1 runtime: 2387us
+DeltaBlue: iterations=1 runtime: 2464us
+DeltaBlue: iterations=1 runtime: 2371us
+DeltaBlue: iterations=1 runtime: 2461us
+DeltaBlue: iterations=1 runtime: 2559us
+DeltaBlue: iterations=1 runtime: 2533us
+DeltaBlue: iterations=1 runtime: 2613us
+DeltaBlue: iterations=1 runtime: 2413us
+DeltaBlue: iterations=1 runtime: 2478us
+DeltaBlue: iterations=10 average: 2514us total: 25135us
+
+
+Total Runtime: 25135us
+  Time (mean ± σ):      66.8 ms ±   3.4 ms    [User: 40.2 ms, System: 16.8 ms]
+  Range (min … max):    62.4 ms …  77.5 ms    15 runs
+ 

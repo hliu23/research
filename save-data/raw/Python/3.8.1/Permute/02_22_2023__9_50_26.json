@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "command": "C:\\Users\\test\\Documents\\research\\research\\artifacts\\installed\\python\\python.exe C:\\Users\\test\\Documents\\research\\research\\artifacts\\system\\are-we-fast-yet\\benchmarks\\Python\\harness.py Permute 10 15",
+      "mean": 0.8995520973333334,
+      "stddev": 0.013886966284298313,
+      "median": 0.896880684,
+      "user": 0.8747916666666665,
+      "system": 0.015833333333333335,
+      "min": 0.877141084,
+      "max": 0.928764284,
+      "times": [
+        0.893412384,
+        0.892524384,
+        0.900413484,
+        0.916587084,
+        0.928764284,
+        0.909488384,
+        0.888662784,
+        0.884919484,
+        0.896880684,
+        0.917253584,
+        0.903831684,
+        0.901075184,
+        0.886016884,
+        0.877141084,
+        0.896310084
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

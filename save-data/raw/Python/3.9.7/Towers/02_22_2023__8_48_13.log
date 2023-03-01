@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py Towers 10 15
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 86645us
+Towers: iterations=1 runtime: 86390us
+Towers: iterations=1 runtime: 86560us
+Towers: iterations=1 runtime: 86526us
+Towers: iterations=1 runtime: 100067us
+Towers: iterations=1 runtime: 124508us
+Towers: iterations=1 runtime: 86900us
+Towers: iterations=1 runtime: 94326us
+Towers: iterations=1 runtime: 93273us
+Towers: iterations=1 runtime: 94930us
+Towers: iterations=10 average: 94012us total: 940125us
+
+
+Total Runtime: 940125us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 87030us
+Towers: iterations=1 runtime: 87677us
+Towers: iterations=1 runtime: 94540us
+Towers: iterations=1 runtime: 86670us
+Towers: iterations=1 runtime: 86823us
+Towers: iterations=1 runtime: 94687us
+Towers: iterations=1 runtime: 86599us
+Towers: iterations=1 runtime: 86652us
+Towers: iterations=1 runtime: 86691us
+Towers: iterations=1 runtime: 87185us
+Towers: iterations=10 average: 88455us total: 884554us
+
+
+Total Runtime: 884554us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 95515us
+Towers: iterations=1 runtime: 86259us
+Towers: iterations=1 runtime: 94047us
+Towers: iterations=1 runtime: 93898us
+Towers: iterations=1 runtime: 86088us
+Towers: iterations=1 runtime: 94045us
+Towers: iterations=1 runtime: 94498us
+Towers: iterations=1 runtime: 101858us
+Towers: iterations=1 runtime: 86269us
+Towers: iterations=1 runtime: 86628us
+Towers: iterations=10 average: 91910us total: 919105us
+
+
+Total Runtime: 919105us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 94998us
+Towers: iterations=1 runtime: 87132us
+Towers: iterations=1 runtime: 86948us
+Towers: iterations=1 runtime: 94967us
+Towers: iterations=1 runtime: 89208us
+Towers: iterations=1 runtime: 101376us
+Towers: iterations=1 runtime: 87187us
+Towers: iterations=1 runtime: 87096us
+Towers: iterations=1 runtime: 86919us
+Towers: iterations=1 runtime: 87100us
+Towers: iterations=10 average: 90293us total: 902931us
+
+
+Total Runtime: 902931us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 95466us
+Towers: iterations=1 runtime: 86175us
+Towers: iterations=1 runtime: 86416us
+Towers: iterations=1 runtime: 86721us
+Towers: iterations=1 runtime: 86163us
+Towers: iterations=1 runtime: 86160us
+Towers: iterations=1 runtime: 102480us
+Towers: iterations=1 runtime: 86769us
+Towers: iterations=1 runtime: 89492us
+Towers: iterations=1 runtime: 86721us
+Towers: iterations=10 average: 89256us total: 892563us
+
+
+Total Runtime: 892563us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 100933us
+Towers: iterations=1 runtime: 86431us
+Towers: iterations=1 runtime: 86153us
+Towers: iterations=1 runtime: 86278us
+Towers: iterations=1 runtime: 86195us
+Towers: iterations=1 runtime: 86221us
+Towers: iterations=1 runtime: 86770us
+Towers: iterations=1 runtime: 86333us
+Towers: iterations=1 runtime: 86172us
+Towers: iterations=1 runtime: 86306us
+Towers: iterations=10 average: 87779us total: 877792us
+
+
+Total Runtime: 877792us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 87313us
+Towers: iterations=1 runtime: 86819us
+Towers: iterations=1 runtime: 86848us
+Towers: iterations=1 runtime: 86865us
+Towers: iterations=1 runtime: 87235us
+Towers: iterations=1 runtime: 86749us
+Towers: iterations=1 runtime: 94392us
+Towers: iterations=1 runtime: 86785us
+Towers: iterations=1 runtime: 87008us
+Towers: iterations=1 runtime: 86932us
+Towers: iterations=10 average: 87695us total: 876946us
+
+
+Total Runtime: 876946us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 86711us
+Towers: iterations=1 runtime: 86446us
+Towers: iterations=1 runtime: 95454us
+Towers: iterations=1 runtime: 94058us
+Towers: iterations=1 runtime: 86473us
+Towers: iterations=1 runtime: 94408us
+Towers: iterations=1 runtime: 94487us
+Towers: iterations=1 runtime: 90673us
+Towers: iterations=1 runtime: 90155us
+Towers: iterations=1 runtime: 94344us
+Towers: iterations=10 average: 91321us total: 913209us
+
+
+Total Runtime: 913209us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 103526us
+Towers: iterations=1 runtime: 88035us
+Towers: iterations=1 runtime: 87944us
+Towers: iterations=1 runtime: 87029us
+Towers: iterations=1 runtime: 94848us
+Towers: iterations=1 runtime: 95249us
+Towers: iterations=1 runtime: 87128us
+Towers: iterations=1 runtime: 87102us
+Towers: iterations=1 runtime: 86832us
+Towers: iterations=1 runtime: 94770us
+Towers: iterations=10 average: 91246us total: 912463us
+
+
+Total Runtime: 912463us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 86989us
+Towers: iterations=1 runtime: 94996us
+Towers: iterations=1 runtime: 87436us
+Towers: iterations=1 runtime: 88549us
+Towers: iterations=1 runtime: 87039us
+Towers: iterations=1 runtime: 87155us
+Towers: iterations=1 runtime: 87103us
+Towers: iterations=1 runtime: 87118us
+Towers: iterations=1 runtime: 87025us
+Towers: iterations=1 runtime: 87479us
+Towers: iterations=10 average: 88089us total: 880889us
+
+
+Total Runtime: 880889us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 86050us
+Towers: iterations=1 runtime: 85817us
+Towers: iterations=1 runtime: 85854us
+Towers: iterations=1 runtime: 87297us
+Towers: iterations=1 runtime: 91437us
+Towers: iterations=1 runtime: 85759us
+Towers: iterations=1 runtime: 85665us
+Towers: iterations=1 runtime: 86030us
+Towers: iterations=1 runtime: 85679us
+Towers: iterations=1 runtime: 85647us
+Towers: iterations=10 average: 86524us total: 865235us
+
+
+Total Runtime: 865235us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 94251us
+Towers: iterations=1 runtime: 93887us
+Towers: iterations=1 runtime: 89825us
+Towers: iterations=1 runtime: 90484us
+Towers: iterations=1 runtime: 89381us
+Towers: iterations=1 runtime: 85864us
+Towers: iterations=1 runtime: 86186us
+Towers: iterations=1 runtime: 85819us
+Towers: iterations=1 runtime: 85826us
+Towers: iterations=1 runtime: 85808us
+Towers: iterations=10 average: 88733us total: 887331us
+
+
+Total Runtime: 887331us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 87361us
+Towers: iterations=1 runtime: 95489us
+Towers: iterations=1 runtime: 86981us
+Towers: iterations=1 runtime: 86582us
+Towers: iterations=1 runtime: 87340us
+Towers: iterations=1 runtime: 87542us
+Towers: iterations=1 runtime: 86610us
+Towers: iterations=1 runtime: 89703us
+Towers: iterations=1 runtime: 86537us
+Towers: iterations=1 runtime: 86491us
+Towers: iterations=10 average: 88064us total: 880636us
+
+
+Total Runtime: 880636us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 88118us
+Towers: iterations=1 runtime: 96265us
+Towers: iterations=1 runtime: 96298us
+Towers: iterations=1 runtime: 88075us
+Towers: iterations=1 runtime: 95806us
+Towers: iterations=1 runtime: 88530us
+Towers: iterations=1 runtime: 96459us
+Towers: iterations=1 runtime: 88045us
+Towers: iterations=1 runtime: 88262us
+Towers: iterations=1 runtime: 88080us
+Towers: iterations=10 average: 91394us total: 913938us
+
+
+Total Runtime: 913938us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 88102us
+Towers: iterations=1 runtime: 86882us
+Towers: iterations=1 runtime: 87105us
+Towers: iterations=1 runtime: 87110us
+Towers: iterations=1 runtime: 87298us
+Towers: iterations=1 runtime: 86800us
+Towers: iterations=1 runtime: 88608us
+Towers: iterations=1 runtime: 92032us
+Towers: iterations=1 runtime: 86972us
+Towers: iterations=1 runtime: 86974us
+Towers: iterations=10 average: 87788us total: 877883us
+
+
+Total Runtime: 877883us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 86175us
+Towers: iterations=1 runtime: 86430us
+Towers: iterations=1 runtime: 86384us
+Towers: iterations=1 runtime: 86220us
+Towers: iterations=1 runtime: 86083us
+Towers: iterations=1 runtime: 86390us
+Towers: iterations=1 runtime: 85959us
+Towers: iterations=1 runtime: 93862us
+Towers: iterations=1 runtime: 86036us
+Towers: iterations=1 runtime: 85935us
+Towers: iterations=10 average: 86947us total: 869474us
+
+
+Total Runtime: 869474us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 87564us
+Towers: iterations=1 runtime: 87332us
+Towers: iterations=1 runtime: 86694us
+Towers: iterations=1 runtime: 86679us
+Towers: iterations=1 runtime: 86873us
+Towers: iterations=1 runtime: 86488us
+Towers: iterations=1 runtime: 86855us
+Towers: iterations=1 runtime: 87098us
+Towers: iterations=1 runtime: 87562us
+Towers: iterations=1 runtime: 95001us
+Towers: iterations=10 average: 87815us total: 878146us
+
+
+Total Runtime: 878146us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 87173us
+Towers: iterations=1 runtime: 87067us
+Towers: iterations=1 runtime: 87374us
+Towers: iterations=1 runtime: 87032us
+Towers: iterations=1 runtime: 86837us
+Towers: iterations=1 runtime: 86822us
+Towers: iterations=1 runtime: 94663us
+Towers: iterations=1 runtime: 86930us
+Towers: iterations=1 runtime: 87135us
+Towers: iterations=1 runtime: 95226us
+Towers: iterations=10 average: 88626us total: 886259us
+
+
+Total Runtime: 886259us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 88284us
+Towers: iterations=1 runtime: 87372us
+Towers: iterations=1 runtime: 87262us
+Towers: iterations=1 runtime: 87906us
+Towers: iterations=1 runtime: 95380us
+Towers: iterations=1 runtime: 87199us
+Towers: iterations=1 runtime: 87183us
+Towers: iterations=1 runtime: 87239us
+Towers: iterations=1 runtime: 95043us
+Towers: iterations=1 runtime: 87228us
+Towers: iterations=10 average: 89010us total: 890096us
+
+
+Total Runtime: 890096us
+Starting Towers benchmark ...
+Towers: iterations=1 runtime: 86679us
+Towers: iterations=1 runtime: 86546us
+Towers: iterations=1 runtime: 86762us
+Towers: iterations=1 runtime: 86520us
+Towers: iterations=1 runtime: 86508us
+Towers: iterations=1 runtime: 94959us
+Towers: iterations=1 runtime: 102345us
+Towers: iterations=1 runtime: 86474us
+Towers: iterations=1 runtime: 86505us
+Towers: iterations=1 runtime: 86514us
+Towers: iterations=10 average: 88981us total: 889812us
+
+
+Total Runtime: 889812us
+  Time (mean ± σ):     925.8 ms ±  15.5 ms    [User: 905.1 ms, System: 14.3 ms]
+  Range (min … max):   904.0 ms … 954.4 ms    15 runs
+ 

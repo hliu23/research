@@ -1,0 +1,4 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py NBody 10 15
+Starting NBody benchmark ...
+No verification result for 15 found
+Result is: -0.16907191535531726

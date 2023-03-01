@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "command": "C:\\Users\\test\\Documents\\research\\research\\artifacts\\installed\\python\\python.exe C:\\Users\\test\\Documents\\research\\research\\artifacts\\system\\are-we-fast-yet\\benchmarks\\Python\\harness.py Storage 10 15",
+      "mean": 0.6701445086666666,
+      "stddev": 0.02610084726611835,
+      "median": 0.661733702,
+      "user": 0.6484374999999999,
+      "system": 0.02075,
+      "min": 0.644923602,
+      "max": 0.749418402,
+      "times": [
+        0.687238202,
+        0.671847902,
+        0.698826902,
+        0.664816202,
+        0.6595512020000001,
+        0.653934802,
+        0.6570939020000001,
+        0.644923602,
+        0.749418402,
+        0.657853602,
+        0.661733702,
+        0.671986802,
+        0.650745602,
+        0.670055902,
+        0.652140902
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py Permute 10 15
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 65044us
+Permute: iterations=1 runtime: 66236us
+Permute: iterations=1 runtime: 77000us
+Permute: iterations=1 runtime: 64587us
+Permute: iterations=1 runtime: 64560us
+Permute: iterations=1 runtime: 64549us
+Permute: iterations=1 runtime: 66197us
+Permute: iterations=1 runtime: 64777us
+Permute: iterations=1 runtime: 65314us
+Permute: iterations=1 runtime: 64609us
+Permute: iterations=10 average: 66287us total: 662873us
+
+
+Total Runtime: 662873us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 72429us
+Permute: iterations=1 runtime: 64948us
+Permute: iterations=1 runtime: 64561us
+Permute: iterations=1 runtime: 64422us
+Permute: iterations=1 runtime: 64407us
+Permute: iterations=1 runtime: 64995us
+Permute: iterations=1 runtime: 64611us
+Permute: iterations=1 runtime: 64385us
+Permute: iterations=1 runtime: 64420us
+Permute: iterations=1 runtime: 64504us
+Permute: iterations=10 average: 65368us total: 653682us
+
+
+Total Runtime: 653682us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 74962us
+Permute: iterations=1 runtime: 66984us
+Permute: iterations=1 runtime: 73992us
+Permute: iterations=1 runtime: 66830us
+Permute: iterations=1 runtime: 66773us
+Permute: iterations=1 runtime: 66771us
+Permute: iterations=1 runtime: 66763us
+Permute: iterations=1 runtime: 66792us
+Permute: iterations=1 runtime: 66855us
+Permute: iterations=1 runtime: 74616us
+Permute: iterations=10 average: 69134us total: 691338us
+
+
+Total Runtime: 691338us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 64642us
+Permute: iterations=1 runtime: 66226us
+Permute: iterations=1 runtime: 71176us
+Permute: iterations=1 runtime: 65114us
+Permute: iterations=1 runtime: 64662us
+Permute: iterations=1 runtime: 65105us
+Permute: iterations=1 runtime: 72503us
+Permute: iterations=1 runtime: 65051us
+Permute: iterations=1 runtime: 64699us
+Permute: iterations=1 runtime: 64720us
+Permute: iterations=10 average: 66390us total: 663898us
+
+
+Total Runtime: 663898us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 64779us
+Permute: iterations=1 runtime: 64967us
+Permute: iterations=1 runtime: 64928us
+Permute: iterations=1 runtime: 64786us
+Permute: iterations=1 runtime: 71719us
+Permute: iterations=1 runtime: 66112us
+Permute: iterations=1 runtime: 64838us
+Permute: iterations=1 runtime: 64808us
+Permute: iterations=1 runtime: 64777us
+Permute: iterations=1 runtime: 64806us
+Permute: iterations=10 average: 65652us total: 656520us
+
+
+Total Runtime: 656520us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 68791us
+Permute: iterations=1 runtime: 64855us
+Permute: iterations=1 runtime: 65425us
+Permute: iterations=1 runtime: 65071us
+Permute: iterations=1 runtime: 66528us
+Permute: iterations=1 runtime: 71777us
+Permute: iterations=1 runtime: 72402us
+Permute: iterations=1 runtime: 64894us
+Permute: iterations=1 runtime: 66300us
+Permute: iterations=1 runtime: 64920us
+Permute: iterations=10 average: 67096us total: 670963us
+
+
+Total Runtime: 670963us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 73283us
+Permute: iterations=1 runtime: 65325us
+Permute: iterations=1 runtime: 65512us
+Permute: iterations=1 runtime: 73199us
+Permute: iterations=1 runtime: 65462us
+Permute: iterations=1 runtime: 65243us
+Permute: iterations=1 runtime: 65238us
+Permute: iterations=1 runtime: 65662us
+Permute: iterations=1 runtime: 65185us
+Permute: iterations=1 runtime: 65179us
+Permute: iterations=10 average: 66929us total: 669288us
+
+
+Total Runtime: 669288us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 64909us
+Permute: iterations=1 runtime: 64945us
+Permute: iterations=1 runtime: 69624us
+Permute: iterations=1 runtime: 68238us
+Permute: iterations=1 runtime: 65109us
+Permute: iterations=1 runtime: 64850us
+Permute: iterations=1 runtime: 64759us
+Permute: iterations=1 runtime: 65125us
+Permute: iterations=1 runtime: 64774us
+Permute: iterations=1 runtime: 64896us
+Permute: iterations=10 average: 65723us total: 657229us
+
+
+Total Runtime: 657229us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 65699us
+Permute: iterations=1 runtime: 73155us
+Permute: iterations=1 runtime: 65880us
+Permute: iterations=1 runtime: 65584us
+Permute: iterations=1 runtime: 65413us
+Permute: iterations=1 runtime: 65411us
+Permute: iterations=1 runtime: 65399us
+Permute: iterations=1 runtime: 65405us
+Permute: iterations=1 runtime: 65416us
+Permute: iterations=1 runtime: 65670us
+Permute: iterations=10 average: 66303us total: 663032us
+
+
+Total Runtime: 663032us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 65237us
+Permute: iterations=1 runtime: 65314us
+Permute: iterations=1 runtime: 72031us
+Permute: iterations=1 runtime: 70067us
+Permute: iterations=1 runtime: 68540us
+Permute: iterations=1 runtime: 65168us
+Permute: iterations=1 runtime: 65298us
+Permute: iterations=1 runtime: 73217us
+Permute: iterations=1 runtime: 65195us
+Permute: iterations=1 runtime: 65170us
+Permute: iterations=10 average: 67524us total: 675237us
+
+
+Total Runtime: 675237us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 64746us
+Permute: iterations=1 runtime: 64810us
+Permute: iterations=1 runtime: 64903us
+Permute: iterations=1 runtime: 64756us
+Permute: iterations=1 runtime: 64991us
+Permute: iterations=1 runtime: 64833us
+Permute: iterations=1 runtime: 64805us
+Permute: iterations=1 runtime: 64858us
+Permute: iterations=1 runtime: 64756us
+Permute: iterations=1 runtime: 64771us
+Permute: iterations=10 average: 64823us total: 648229us
+
+
+Total Runtime: 648229us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 65418us
+Permute: iterations=1 runtime: 65535us
+Permute: iterations=1 runtime: 65789us
+Permute: iterations=1 runtime: 66154us
+Permute: iterations=1 runtime: 72646us
+Permute: iterations=1 runtime: 65436us
+Permute: iterations=1 runtime: 65514us
+Permute: iterations=1 runtime: 65454us
+Permute: iterations=1 runtime: 65413us
+Permute: iterations=1 runtime: 65616us
+Permute: iterations=10 average: 66298us total: 662975us
+
+
+Total Runtime: 662975us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 71482us
+Permute: iterations=1 runtime: 64803us
+Permute: iterations=1 runtime: 64867us
+Permute: iterations=1 runtime: 72550us
+Permute: iterations=1 runtime: 64839us
+Permute: iterations=1 runtime: 64750us
+Permute: iterations=1 runtime: 64783us
+Permute: iterations=1 runtime: 65053us
+Permute: iterations=1 runtime: 64701us
+Permute: iterations=1 runtime: 64722us
+Permute: iterations=10 average: 66255us total: 662550us
+
+
+Total Runtime: 662550us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 64560us
+Permute: iterations=1 runtime: 64896us
+Permute: iterations=1 runtime: 64774us
+Permute: iterations=1 runtime: 71350us
+Permute: iterations=1 runtime: 66559us
+Permute: iterations=1 runtime: 64879us
+Permute: iterations=1 runtime: 64527us
+Permute: iterations=1 runtime: 64524us
+Permute: iterations=1 runtime: 64759us
+Permute: iterations=1 runtime: 64518us
+Permute: iterations=10 average: 65535us total: 655346us
+
+
+Total Runtime: 655346us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 64505us
+Permute: iterations=1 runtime: 64710us
+Permute: iterations=1 runtime: 64690us
+Permute: iterations=1 runtime: 64489us
+Permute: iterations=1 runtime: 64456us
+Permute: iterations=1 runtime: 67071us
+Permute: iterations=1 runtime: 64643us
+Permute: iterations=1 runtime: 64456us
+Permute: iterations=1 runtime: 72240us
+Permute: iterations=1 runtime: 64871us
+Permute: iterations=10 average: 65613us total: 656131us
+
+
+Total Runtime: 656131us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 64588us
+Permute: iterations=1 runtime: 64682us
+Permute: iterations=1 runtime: 64689us
+Permute: iterations=1 runtime: 64547us
+Permute: iterations=1 runtime: 65170us
+Permute: iterations=1 runtime: 64545us
+Permute: iterations=1 runtime: 64523us
+Permute: iterations=1 runtime: 64747us
+Permute: iterations=1 runtime: 64584us
+Permute: iterations=1 runtime: 64531us
+Permute: iterations=10 average: 64661us total: 646606us
+
+
+Total Runtime: 646606us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 65844us
+Permute: iterations=1 runtime: 65707us
+Permute: iterations=1 runtime: 65818us
+Permute: iterations=1 runtime: 65726us
+Permute: iterations=1 runtime: 65868us
+Permute: iterations=1 runtime: 65769us
+Permute: iterations=1 runtime: 73556us
+Permute: iterations=1 runtime: 65760us
+Permute: iterations=1 runtime: 65695us
+Permute: iterations=1 runtime: 65715us
+Permute: iterations=10 average: 66546us total: 665458us
+
+
+Total Runtime: 665458us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 65277us
+Permute: iterations=1 runtime: 65476us
+Permute: iterations=1 runtime: 65507us
+Permute: iterations=1 runtime: 65762us
+Permute: iterations=1 runtime: 73299us
+Permute: iterations=1 runtime: 65288us
+Permute: iterations=1 runtime: 65304us
+Permute: iterations=1 runtime: 65266us
+Permute: iterations=1 runtime: 65298us
+Permute: iterations=1 runtime: 65255us
+Permute: iterations=10 average: 66173us total: 661732us
+
+
+Total Runtime: 661732us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 73006us
+Permute: iterations=1 runtime: 65020us
+Permute: iterations=1 runtime: 73154us
+Permute: iterations=1 runtime: 65088us
+Permute: iterations=1 runtime: 64990us
+Permute: iterations=1 runtime: 65004us
+Permute: iterations=1 runtime: 72824us
+Permute: iterations=1 runtime: 65165us
+Permute: iterations=1 runtime: 65111us
+Permute: iterations=1 runtime: 64992us
+Permute: iterations=10 average: 67435us total: 674354us
+
+
+Total Runtime: 674354us
+Starting Permute benchmark ...
+Permute: iterations=1 runtime: 72965us
+Permute: iterations=1 runtime: 71946us
+Permute: iterations=1 runtime: 72724us
+Permute: iterations=1 runtime: 65513us
+Permute: iterations=1 runtime: 64960us
+Permute: iterations=1 runtime: 64849us
+Permute: iterations=1 runtime: 64911us
+Permute: iterations=1 runtime: 64859us
+Permute: iterations=1 runtime: 64968us
+Permute: iterations=1 runtime: 64963us
+Permute: iterations=10 average: 67266us total: 672658us
+
+
+Total Runtime: 672658us
+  Time (mean ± σ):     700.1 ms ±   9.3 ms    [User: 670.3 ms, System: 20.5 ms]
+  Range (min … max):   683.4 ms … 713.6 ms    15 runs
+ 

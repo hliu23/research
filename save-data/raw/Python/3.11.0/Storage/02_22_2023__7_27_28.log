@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py Storage 10 15
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 39915us
+Storage: iterations=1 runtime: 41025us
+Storage: iterations=1 runtime: 41786us
+Storage: iterations=1 runtime: 41804us
+Storage: iterations=1 runtime: 48662us
+Storage: iterations=1 runtime: 49048us
+Storage: iterations=1 runtime: 41574us
+Storage: iterations=1 runtime: 49028us
+Storage: iterations=1 runtime: 41172us
+Storage: iterations=1 runtime: 41382us
+Storage: iterations=10 average: 43540us total: 435396us
+
+
+Total Runtime: 435396us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40947us
+Storage: iterations=1 runtime: 40755us
+Storage: iterations=1 runtime: 40271us
+Storage: iterations=1 runtime: 40538us
+Storage: iterations=1 runtime: 41595us
+Storage: iterations=1 runtime: 39771us
+Storage: iterations=1 runtime: 41246us
+Storage: iterations=1 runtime: 40952us
+Storage: iterations=1 runtime: 40537us
+Storage: iterations=1 runtime: 40721us
+Storage: iterations=10 average: 40733us total: 407333us
+
+
+Total Runtime: 407333us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40028us
+Storage: iterations=1 runtime: 41053us
+Storage: iterations=1 runtime: 41051us
+Storage: iterations=1 runtime: 41503us
+Storage: iterations=1 runtime: 41364us
+Storage: iterations=1 runtime: 40758us
+Storage: iterations=1 runtime: 41252us
+Storage: iterations=1 runtime: 41257us
+Storage: iterations=1 runtime: 41411us
+Storage: iterations=1 runtime: 40349us
+Storage: iterations=10 average: 41003us total: 410026us
+
+
+Total Runtime: 410026us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40024us
+Storage: iterations=1 runtime: 43632us
+Storage: iterations=1 runtime: 41316us
+Storage: iterations=1 runtime: 47829us
+Storage: iterations=1 runtime: 42089us
+Storage: iterations=1 runtime: 40756us
+Storage: iterations=1 runtime: 41448us
+Storage: iterations=1 runtime: 41648us
+Storage: iterations=1 runtime: 41286us
+Storage: iterations=1 runtime: 41046us
+Storage: iterations=10 average: 42107us total: 421074us
+
+
+Total Runtime: 421074us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40158us
+Storage: iterations=1 runtime: 41043us
+Storage: iterations=1 runtime: 40896us
+Storage: iterations=1 runtime: 42660us
+Storage: iterations=1 runtime: 46964us
+Storage: iterations=1 runtime: 40792us
+Storage: iterations=1 runtime: 41385us
+Storage: iterations=1 runtime: 41589us
+Storage: iterations=1 runtime: 40982us
+Storage: iterations=1 runtime: 40955us
+Storage: iterations=10 average: 41742us total: 417424us
+
+
+Total Runtime: 417424us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40213us
+Storage: iterations=1 runtime: 41133us
+Storage: iterations=1 runtime: 40898us
+Storage: iterations=1 runtime: 41052us
+Storage: iterations=1 runtime: 42626us
+Storage: iterations=1 runtime: 40250us
+Storage: iterations=1 runtime: 41328us
+Storage: iterations=1 runtime: 41037us
+Storage: iterations=1 runtime: 41311us
+Storage: iterations=1 runtime: 40680us
+Storage: iterations=10 average: 41053us total: 410528us
+
+
+Total Runtime: 410528us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40050us
+Storage: iterations=1 runtime: 40992us
+Storage: iterations=1 runtime: 45953us
+Storage: iterations=1 runtime: 43387us
+Storage: iterations=1 runtime: 41174us
+Storage: iterations=1 runtime: 40596us
+Storage: iterations=1 runtime: 41102us
+Storage: iterations=1 runtime: 41283us
+Storage: iterations=1 runtime: 40872us
+Storage: iterations=1 runtime: 40668us
+Storage: iterations=10 average: 41608us total: 416077us
+
+
+Total Runtime: 416077us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40159us
+Storage: iterations=1 runtime: 41662us
+Storage: iterations=1 runtime: 41050us
+Storage: iterations=1 runtime: 41336us
+Storage: iterations=1 runtime: 49319us
+Storage: iterations=1 runtime: 40742us
+Storage: iterations=1 runtime: 41549us
+Storage: iterations=1 runtime: 41591us
+Storage: iterations=1 runtime: 41190us
+Storage: iterations=1 runtime: 40780us
+Storage: iterations=10 average: 41938us total: 419378us
+
+
+Total Runtime: 419378us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40186us
+Storage: iterations=1 runtime: 40966us
+Storage: iterations=1 runtime: 40860us
+Storage: iterations=1 runtime: 40715us
+Storage: iterations=1 runtime: 41428us
+Storage: iterations=1 runtime: 56185us
+Storage: iterations=1 runtime: 39415us
+Storage: iterations=1 runtime: 41675us
+Storage: iterations=1 runtime: 51548us
+Storage: iterations=1 runtime: 40829us
+Storage: iterations=10 average: 43381us total: 433807us
+
+
+Total Runtime: 433807us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40298us
+Storage: iterations=1 runtime: 41242us
+Storage: iterations=1 runtime: 40900us
+Storage: iterations=1 runtime: 41164us
+Storage: iterations=1 runtime: 41672us
+Storage: iterations=1 runtime: 40670us
+Storage: iterations=1 runtime: 41300us
+Storage: iterations=1 runtime: 41430us
+Storage: iterations=1 runtime: 41764us
+Storage: iterations=1 runtime: 40778us
+Storage: iterations=10 average: 41122us total: 411218us
+
+
+Total Runtime: 411218us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 47240us
+Storage: iterations=1 runtime: 53094us
+Storage: iterations=1 runtime: 58147us
+Storage: iterations=1 runtime: 43436us
+Storage: iterations=1 runtime: 48873us
+Storage: iterations=1 runtime: 41000us
+Storage: iterations=1 runtime: 43997us
+Storage: iterations=1 runtime: 46853us
+Storage: iterations=1 runtime: 40133us
+Storage: iterations=1 runtime: 42756us
+Storage: iterations=10 average: 46553us total: 465529us
+
+
+Total Runtime: 465529us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 39719us
+Storage: iterations=1 runtime: 48328us
+Storage: iterations=1 runtime: 40791us
+Storage: iterations=1 runtime: 41186us
+Storage: iterations=1 runtime: 41945us
+Storage: iterations=1 runtime: 40799us
+Storage: iterations=1 runtime: 41489us
+Storage: iterations=1 runtime: 41530us
+Storage: iterations=1 runtime: 41329us
+Storage: iterations=1 runtime: 41593us
+Storage: iterations=10 average: 41871us total: 418709us
+
+
+Total Runtime: 418709us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 41262us
+Storage: iterations=1 runtime: 42512us
+Storage: iterations=1 runtime: 42054us
+Storage: iterations=1 runtime: 49570us
+Storage: iterations=1 runtime: 42614us
+Storage: iterations=1 runtime: 42091us
+Storage: iterations=1 runtime: 41343us
+Storage: iterations=1 runtime: 42103us
+Storage: iterations=1 runtime: 49685us
+Storage: iterations=1 runtime: 42240us
+Storage: iterations=10 average: 43547us total: 435474us
+
+
+Total Runtime: 435474us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 42699us
+Storage: iterations=1 runtime: 43889us
+Storage: iterations=1 runtime: 45384us
+Storage: iterations=1 runtime: 45236us
+Storage: iterations=1 runtime: 53302us
+Storage: iterations=1 runtime: 51730us
+Storage: iterations=1 runtime: 48106us
+Storage: iterations=1 runtime: 56642us
+Storage: iterations=1 runtime: 44346us
+Storage: iterations=1 runtime: 44043us
+Storage: iterations=10 average: 47538us total: 475377us
+
+
+Total Runtime: 475377us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 39592us
+Storage: iterations=1 runtime: 40467us
+Storage: iterations=1 runtime: 40163us
+Storage: iterations=1 runtime: 40222us
+Storage: iterations=1 runtime: 50920us
+Storage: iterations=1 runtime: 43974us
+Storage: iterations=1 runtime: 45847us
+Storage: iterations=1 runtime: 46254us
+Storage: iterations=1 runtime: 45515us
+Storage: iterations=1 runtime: 44836us
+Storage: iterations=10 average: 43779us total: 437790us
+
+
+Total Runtime: 437790us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 39715us
+Storage: iterations=1 runtime: 40457us
+Storage: iterations=1 runtime: 40346us
+Storage: iterations=1 runtime: 40650us
+Storage: iterations=1 runtime: 41163us
+Storage: iterations=1 runtime: 40922us
+Storage: iterations=1 runtime: 41381us
+Storage: iterations=1 runtime: 41146us
+Storage: iterations=1 runtime: 40966us
+Storage: iterations=1 runtime: 40878us
+Storage: iterations=10 average: 40762us total: 407624us
+
+
+Total Runtime: 407624us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40283us
+Storage: iterations=1 runtime: 40975us
+Storage: iterations=1 runtime: 41426us
+Storage: iterations=1 runtime: 41264us
+Storage: iterations=1 runtime: 41092us
+Storage: iterations=1 runtime: 40381us
+Storage: iterations=1 runtime: 40911us
+Storage: iterations=1 runtime: 41117us
+Storage: iterations=1 runtime: 40969us
+Storage: iterations=1 runtime: 40581us
+Storage: iterations=10 average: 40900us total: 408999us
+
+
+Total Runtime: 408999us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40072us
+Storage: iterations=1 runtime: 40915us
+Storage: iterations=1 runtime: 40979us
+Storage: iterations=1 runtime: 40914us
+Storage: iterations=1 runtime: 41380us
+Storage: iterations=1 runtime: 40306us
+Storage: iterations=1 runtime: 40891us
+Storage: iterations=1 runtime: 40900us
+Storage: iterations=1 runtime: 41148us
+Storage: iterations=1 runtime: 40368us
+Storage: iterations=10 average: 40787us total: 407873us
+
+
+Total Runtime: 407873us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40328us
+Storage: iterations=1 runtime: 43174us
+Storage: iterations=1 runtime: 46351us
+Storage: iterations=1 runtime: 42290us
+Storage: iterations=1 runtime: 41392us
+Storage: iterations=1 runtime: 40929us
+Storage: iterations=1 runtime: 45219us
+Storage: iterations=1 runtime: 40768us
+Storage: iterations=1 runtime: 41303us
+Storage: iterations=1 runtime: 40619us
+Storage: iterations=10 average: 42237us total: 422373us
+
+
+Total Runtime: 422373us
+Starting Storage benchmark ...
+Storage: iterations=1 runtime: 40114us
+Storage: iterations=1 runtime: 41013us
+Storage: iterations=1 runtime: 41138us
+Storage: iterations=1 runtime: 41303us
+Storage: iterations=1 runtime: 41998us
+Storage: iterations=1 runtime: 40394us
+Storage: iterations=1 runtime: 41125us
+Storage: iterations=1 runtime: 41614us
+Storage: iterations=1 runtime: 41028us
+Storage: iterations=1 runtime: 40665us
+Storage: iterations=10 average: 41039us total: 410392us
+
+
+Total Runtime: 410392us
+  Time (mean ± σ):     457.8 ms ±  21.1 ms    [User: 442.0 ms, System: 21.0 ms]
+  Range (min … max):   438.8 ms … 507.6 ms    15 runs
+ 

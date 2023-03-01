@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py Sieve 10 15
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23615us
+Sieve: iterations=1 runtime: 23427us
+Sieve: iterations=1 runtime: 23889us
+Sieve: iterations=1 runtime: 23534us
+Sieve: iterations=1 runtime: 31768us
+Sieve: iterations=1 runtime: 23255us
+Sieve: iterations=1 runtime: 23469us
+Sieve: iterations=1 runtime: 23620us
+Sieve: iterations=1 runtime: 23287us
+Sieve: iterations=1 runtime: 23373us
+Sieve: iterations=10 average: 24324us total: 243237us
+
+
+Total Runtime: 243237us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23377us
+Sieve: iterations=1 runtime: 23278us
+Sieve: iterations=1 runtime: 23400us
+Sieve: iterations=1 runtime: 23253us
+Sieve: iterations=1 runtime: 23277us
+Sieve: iterations=1 runtime: 23258us
+Sieve: iterations=1 runtime: 36085us
+Sieve: iterations=1 runtime: 30604us
+Sieve: iterations=1 runtime: 27982us
+Sieve: iterations=1 runtime: 23858us
+Sieve: iterations=10 average: 25837us total: 258372us
+
+
+Total Runtime: 258372us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23353us
+Sieve: iterations=1 runtime: 23313us
+Sieve: iterations=1 runtime: 23279us
+Sieve: iterations=1 runtime: 25769us
+Sieve: iterations=1 runtime: 23764us
+Sieve: iterations=1 runtime: 23301us
+Sieve: iterations=1 runtime: 23297us
+Sieve: iterations=1 runtime: 29732us
+Sieve: iterations=1 runtime: 33722us
+Sieve: iterations=1 runtime: 23287us
+Sieve: iterations=10 average: 25282us total: 252817us
+
+
+Total Runtime: 252817us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23600us
+Sieve: iterations=1 runtime: 23486us
+Sieve: iterations=1 runtime: 23519us
+Sieve: iterations=1 runtime: 23472us
+Sieve: iterations=1 runtime: 23516us
+Sieve: iterations=1 runtime: 23429us
+Sieve: iterations=1 runtime: 23743us
+Sieve: iterations=1 runtime: 24499us
+Sieve: iterations=1 runtime: 23462us
+Sieve: iterations=1 runtime: 23489us
+Sieve: iterations=10 average: 23622us total: 236215us
+
+
+Total Runtime: 236215us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23300us
+Sieve: iterations=1 runtime: 23255us
+Sieve: iterations=1 runtime: 23411us
+Sieve: iterations=1 runtime: 23264us
+Sieve: iterations=1 runtime: 23273us
+Sieve: iterations=1 runtime: 23247us
+Sieve: iterations=1 runtime: 23242us
+Sieve: iterations=1 runtime: 23410us
+Sieve: iterations=1 runtime: 23275us
+Sieve: iterations=1 runtime: 23266us
+Sieve: iterations=10 average: 23294us total: 232943us
+
+
+Total Runtime: 232943us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23553us
+Sieve: iterations=1 runtime: 23887us
+Sieve: iterations=1 runtime: 24206us
+Sieve: iterations=1 runtime: 23501us
+Sieve: iterations=1 runtime: 32475us
+Sieve: iterations=1 runtime: 23534us
+Sieve: iterations=1 runtime: 23608us
+Sieve: iterations=1 runtime: 23945us
+Sieve: iterations=1 runtime: 23445us
+Sieve: iterations=1 runtime: 23460us
+Sieve: iterations=10 average: 24561us total: 245614us
+
+
+Total Runtime: 245614us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23617us
+Sieve: iterations=1 runtime: 23515us
+Sieve: iterations=1 runtime: 31781us
+Sieve: iterations=1 runtime: 25937us
+Sieve: iterations=1 runtime: 29353us
+Sieve: iterations=1 runtime: 23362us
+Sieve: iterations=1 runtime: 23450us
+Sieve: iterations=1 runtime: 23519us
+Sieve: iterations=1 runtime: 23476us
+Sieve: iterations=1 runtime: 23475us
+Sieve: iterations=10 average: 25148us total: 251485us
+
+
+Total Runtime: 251485us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23588us
+Sieve: iterations=1 runtime: 23376us
+Sieve: iterations=1 runtime: 23682us
+Sieve: iterations=1 runtime: 23429us
+Sieve: iterations=1 runtime: 23849us
+Sieve: iterations=1 runtime: 23620us
+Sieve: iterations=1 runtime: 23625us
+Sieve: iterations=1 runtime: 23512us
+Sieve: iterations=1 runtime: 23337us
+Sieve: iterations=1 runtime: 23348us
+Sieve: iterations=10 average: 23537us total: 235366us
+
+
+Total Runtime: 235366us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23289us
+Sieve: iterations=1 runtime: 23301us
+Sieve: iterations=1 runtime: 23342us
+Sieve: iterations=1 runtime: 26019us
+Sieve: iterations=1 runtime: 29209us
+Sieve: iterations=1 runtime: 23285us
+Sieve: iterations=1 runtime: 23303us
+Sieve: iterations=1 runtime: 23545us
+Sieve: iterations=1 runtime: 23309us
+Sieve: iterations=1 runtime: 23264us
+Sieve: iterations=10 average: 24187us total: 241866us
+
+
+Total Runtime: 241866us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23574us
+Sieve: iterations=1 runtime: 23348us
+Sieve: iterations=1 runtime: 23283us
+Sieve: iterations=1 runtime: 31771us
+Sieve: iterations=1 runtime: 23293us
+Sieve: iterations=1 runtime: 23280us
+Sieve: iterations=1 runtime: 23332us
+Sieve: iterations=1 runtime: 40073us
+Sieve: iterations=1 runtime: 23279us
+Sieve: iterations=1 runtime: 23272us
+Sieve: iterations=10 average: 25850us total: 258505us
+
+
+Total Runtime: 258505us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23585us
+Sieve: iterations=1 runtime: 23500us
+Sieve: iterations=1 runtime: 23564us
+Sieve: iterations=1 runtime: 23559us
+Sieve: iterations=1 runtime: 23588us
+Sieve: iterations=1 runtime: 23581us
+Sieve: iterations=1 runtime: 23402us
+Sieve: iterations=1 runtime: 23485us
+Sieve: iterations=1 runtime: 23569us
+Sieve: iterations=1 runtime: 23729us
+Sieve: iterations=10 average: 23556us total: 235562us
+
+
+Total Runtime: 235562us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23310us
+Sieve: iterations=1 runtime: 23303us
+Sieve: iterations=1 runtime: 23404us
+Sieve: iterations=1 runtime: 23252us
+Sieve: iterations=1 runtime: 23267us
+Sieve: iterations=1 runtime: 23254us
+Sieve: iterations=1 runtime: 23270us
+Sieve: iterations=1 runtime: 23417us
+Sieve: iterations=1 runtime: 23261us
+Sieve: iterations=1 runtime: 23288us
+Sieve: iterations=10 average: 23303us total: 233026us
+
+
+Total Runtime: 233026us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23530us
+Sieve: iterations=1 runtime: 23304us
+Sieve: iterations=1 runtime: 23396us
+Sieve: iterations=1 runtime: 23459us
+Sieve: iterations=1 runtime: 24139us
+Sieve: iterations=1 runtime: 23352us
+Sieve: iterations=1 runtime: 23411us
+Sieve: iterations=1 runtime: 23458us
+Sieve: iterations=1 runtime: 23542us
+Sieve: iterations=1 runtime: 23355us
+Sieve: iterations=10 average: 23495us total: 234946us
+
+
+Total Runtime: 234946us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23319us
+Sieve: iterations=1 runtime: 23270us
+Sieve: iterations=1 runtime: 31773us
+Sieve: iterations=1 runtime: 23317us
+Sieve: iterations=1 runtime: 23288us
+Sieve: iterations=1 runtime: 23300us
+Sieve: iterations=1 runtime: 23288us
+Sieve: iterations=1 runtime: 23773us
+Sieve: iterations=1 runtime: 23312us
+Sieve: iterations=1 runtime: 23288us
+Sieve: iterations=10 average: 24193us total: 241928us
+
+
+Total Runtime: 241928us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23404us
+Sieve: iterations=1 runtime: 23481us
+Sieve: iterations=1 runtime: 23736us
+Sieve: iterations=1 runtime: 23594us
+Sieve: iterations=1 runtime: 23562us
+Sieve: iterations=1 runtime: 23628us
+Sieve: iterations=1 runtime: 23477us
+Sieve: iterations=1 runtime: 23761us
+Sieve: iterations=1 runtime: 23653us
+Sieve: iterations=1 runtime: 31858us
+Sieve: iterations=10 average: 24415us total: 244154us
+
+
+Total Runtime: 244154us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23322us
+Sieve: iterations=1 runtime: 23295us
+Sieve: iterations=1 runtime: 23303us
+Sieve: iterations=1 runtime: 23746us
+Sieve: iterations=1 runtime: 23347us
+Sieve: iterations=1 runtime: 23333us
+Sieve: iterations=1 runtime: 23280us
+Sieve: iterations=1 runtime: 23609us
+Sieve: iterations=1 runtime: 23384us
+Sieve: iterations=1 runtime: 23302us
+Sieve: iterations=10 average: 23392us total: 233921us
+
+
+Total Runtime: 233921us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23356us
+Sieve: iterations=1 runtime: 23393us
+Sieve: iterations=1 runtime: 23385us
+Sieve: iterations=1 runtime: 23809us
+Sieve: iterations=1 runtime: 24188us
+Sieve: iterations=1 runtime: 23992us
+Sieve: iterations=1 runtime: 23443us
+Sieve: iterations=1 runtime: 31880us
+Sieve: iterations=1 runtime: 23716us
+Sieve: iterations=1 runtime: 23483us
+Sieve: iterations=10 average: 24464us total: 244645us
+
+
+Total Runtime: 244645us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23875us
+Sieve: iterations=1 runtime: 23448us
+Sieve: iterations=1 runtime: 23577us
+Sieve: iterations=1 runtime: 23416us
+Sieve: iterations=1 runtime: 23480us
+Sieve: iterations=1 runtime: 23476us
+Sieve: iterations=1 runtime: 23408us
+Sieve: iterations=1 runtime: 23538us
+Sieve: iterations=1 runtime: 23422us
+Sieve: iterations=1 runtime: 31718us
+Sieve: iterations=10 average: 24336us total: 243358us
+
+
+Total Runtime: 243358us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23364us
+Sieve: iterations=1 runtime: 23319us
+Sieve: iterations=1 runtime: 24001us
+Sieve: iterations=1 runtime: 23442us
+Sieve: iterations=1 runtime: 23332us
+Sieve: iterations=1 runtime: 23330us
+Sieve: iterations=1 runtime: 23299us
+Sieve: iterations=1 runtime: 23485us
+Sieve: iterations=1 runtime: 23353us
+Sieve: iterations=1 runtime: 23366us
+Sieve: iterations=10 average: 23429us total: 234291us
+
+
+Total Runtime: 234291us
+Starting Sieve benchmark ...
+Sieve: iterations=1 runtime: 23392us
+Sieve: iterations=1 runtime: 23325us
+Sieve: iterations=1 runtime: 23606us
+Sieve: iterations=1 runtime: 23330us
+Sieve: iterations=1 runtime: 23314us
+Sieve: iterations=1 runtime: 23257us
+Sieve: iterations=1 runtime: 23261us
+Sieve: iterations=1 runtime: 23410us
+Sieve: iterations=1 runtime: 23327us
+Sieve: iterations=1 runtime: 23340us
+Sieve: iterations=10 average: 23356us total: 233562us
+
+
+Total Runtime: 233562us
+  Time (mean ± σ):     277.8 ms ±   8.5 ms    [User: 255.1 ms, System: 18.1 ms]
+  Range (min … max):   268.6 ms … 297.3 ms    15 runs
+ 

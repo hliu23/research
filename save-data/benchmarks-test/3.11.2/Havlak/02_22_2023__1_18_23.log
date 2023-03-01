@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py Havlak 10 15
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 6740071us
+Havlak: iterations=1 runtime: 6689216us
+Havlak: iterations=1 runtime: 6684915us
+Havlak: iterations=1 runtime: 6931746us
+Havlak: iterations=1 runtime: 6729407us
+Havlak: iterations=1 runtime: 8205441us
+Havlak: iterations=1 runtime: 8275314us
+Havlak: iterations=1 runtime: 6630187us
+Havlak: iterations=1 runtime: 5839567us
+Havlak: iterations=1 runtime: 5930751us
+Havlak: iterations=10 average: 6865662us total: 68656615us
+
+
+Total Runtime: 68656615us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5593410us
+Havlak: iterations=1 runtime: 5759989us
+Havlak: iterations=1 runtime: 5962450us
+Havlak: iterations=1 runtime: 5862378us
+Havlak: iterations=1 runtime: 5779201us
+Havlak: iterations=1 runtime: 5854740us
+Havlak: iterations=1 runtime: 5931372us
+Havlak: iterations=1 runtime: 5850492us
+Havlak: iterations=1 runtime: 5695831us
+Havlak: iterations=1 runtime: 5972494us
+Havlak: iterations=10 average: 5826236us total: 58262357us
+
+
+Total Runtime: 58262357us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5756882us
+Havlak: iterations=1 runtime: 5738684us
+Havlak: iterations=1 runtime: 5897481us
+Havlak: iterations=1 runtime: 6032936us
+Havlak: iterations=1 runtime: 5832304us
+Havlak: iterations=1 runtime: 8872637us
+Havlak: iterations=1 runtime: 10253786us
+Havlak: iterations=1 runtime: 11217149us
+Havlak: iterations=1 runtime: 7651283us
+Havlak: iterations=1 runtime: 7354726us
+Havlak: iterations=10 average: 7460787us total: 74607868us
+
+
+Total Runtime: 74607868us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 6643612us
+Havlak: iterations=1 runtime: 6630688us
+Havlak: iterations=1 runtime: 5899592us
+Havlak: iterations=1 runtime: 6174833us
+Havlak: iterations=1 runtime: 6123495us
+Havlak: iterations=1 runtime: 6562953us
+Havlak: iterations=1 runtime: 5792028us
+Havlak: iterations=1 runtime: 6717394us
+Havlak: iterations=1 runtime: 6549310us
+Havlak: iterations=1 runtime: 6953202us
+Havlak: iterations=10 average: 6404711us total: 64047107us
+
+
+Total Runtime: 64047107us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 11392357us
+Havlak: iterations=1 runtime: 9130819us
+Havlak: iterations=1 runtime: 9563212us
+Havlak: iterations=1 runtime: 9076380us
+Havlak: iterations=1 runtime: 9241819us
+Havlak: iterations=1 runtime: 8967525us
+Havlak: iterations=1 runtime: 7028224us
+Havlak: iterations=1 runtime: 7052051us
+Havlak: iterations=1 runtime: 6372005us
+Havlak: iterations=1 runtime: 7319631us
+Havlak: iterations=10 average: 8514402us total: 85144023us
+
+
+Total Runtime: 85144023us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5835701us
+Havlak: iterations=1 runtime: 6644876us
+Havlak: iterations=1 runtime: 6234543us
+Havlak: iterations=1 runtime: 5999259us
+Havlak: iterations=1 runtime: 6121613us
+Havlak: iterations=1 runtime: 5803667us
+Havlak: iterations=1 runtime: 6213558us
+Havlak: iterations=1 runtime: 6127059us
+Havlak: iterations=1 runtime: 5720347us
+Havlak: iterations=1 runtime: 5904372us
+Havlak: iterations=10 average: 6060500us total: 60604995us
+
+
+Total Runtime: 60604995us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 6373656us
+Havlak: iterations=1 runtime: 6837075us
+Havlak: iterations=1 runtime: 5918040us
+Havlak: iterations=1 runtime: 5922444us
+Havlak: iterations=1 runtime: 6046594us
+Havlak: iterations=1 runtime: 6378476us
+Havlak: iterations=1 runtime: 6352444us
+Havlak: iterations=1 runtime: 6443187us
+Havlak: iterations=1 runtime: 6536322us
+Havlak: iterations=1 runtime: 6410568us
+Havlak: iterations=10 average: 6321881us total: 63218806us
+
+
+Total Runtime: 63218806us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 6027330us
+Havlak: iterations=1 runtime: 5979515us
+Havlak: iterations=1 runtime: 5703788us
+Havlak: iterations=1 runtime: 5741716us
+Havlak: iterations=1 runtime: 5980878us
+Havlak: iterations=1 runtime: 5850203us
+Havlak: iterations=1 runtime: 5882867us
+Havlak: iterations=1 runtime: 6274761us
+Havlak: iterations=1 runtime: 6504128us
+Havlak: iterations=1 runtime: 6318114us
+Havlak: iterations=10 average: 6026330us total: 60263300us
+
+
+Total Runtime: 60263300us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5544279us
+Havlak: iterations=1 runtime: 5972208us
+Havlak: iterations=1 runtime: 5772283us
+Havlak: iterations=1 runtime: 5708309us
+Havlak: iterations=1 runtime: 5863824us
+Havlak: iterations=1 runtime: 5725967us
+Havlak: iterations=1 runtime: 6298252us
+Havlak: iterations=1 runtime: 5902540us
+Havlak: iterations=1 runtime: 6202396us
+Havlak: iterations=1 runtime: 6110718us
+Havlak: iterations=10 average: 5910078us total: 59100776us
+
+
+Total Runtime: 59100776us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5593608us
+Havlak: iterations=1 runtime: 5801673us
+Havlak: iterations=1 runtime: 5889773us
+Havlak: iterations=1 runtime: 5943731us
+Havlak: iterations=1 runtime: 5850387us
+Havlak: iterations=1 runtime: 5710540us
+Havlak: iterations=1 runtime: 5867406us
+Havlak: iterations=1 runtime: 6029988us
+Havlak: iterations=1 runtime: 5698906us
+Havlak: iterations=1 runtime: 6096599us
+Havlak: iterations=10 average: 5848261us total: 58482611us
+
+
+Total Runtime: 58482611us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5970812us
+Havlak: iterations=1 runtime: 5570872us
+Havlak: iterations=1 runtime: 6133628us
+Havlak: iterations=1 runtime: 5900489us
+Havlak: iterations=1 runtime: 5915119us
+Havlak: iterations=1 runtime: 6437440us
+Havlak: iterations=1 runtime: 6384785us
+Havlak: iterations=1 runtime: 5991388us
+Havlak: iterations=1 runtime: 5758214us
+Havlak: iterations=1 runtime: 6154923us
+Havlak: iterations=10 average: 6021767us total: 60217670us
+
+
+Total Runtime: 60217670us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5821018us
+Havlak: iterations=1 runtime: 6046969us
+Havlak: iterations=1 runtime: 5879236us
+Havlak: iterations=1 runtime: 5916712us
+Havlak: iterations=1 runtime: 5971418us
+Havlak: iterations=1 runtime: 5762151us
+Havlak: iterations=1 runtime: 5892437us
+Havlak: iterations=1 runtime: 5975338us
+Havlak: iterations=1 runtime: 5706446us
+Havlak: iterations=1 runtime: 6098281us
+Havlak: iterations=10 average: 5907001us total: 59070006us
+
+
+Total Runtime: 59070006us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5532126us
+Havlak: iterations=1 runtime: 5630676us
+Havlak: iterations=1 runtime: 5953752us
+Havlak: iterations=1 runtime: 5737288us
+Havlak: iterations=1 runtime: 6063343us
+Havlak: iterations=1 runtime: 6193906us
+Havlak: iterations=1 runtime: 6240710us
+Havlak: iterations=1 runtime: 6277699us
+Havlak: iterations=1 runtime: 5892473us
+Havlak: iterations=1 runtime: 6189669us
+Havlak: iterations=10 average: 5971164us total: 59711642us
+
+
+Total Runtime: 59711642us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 6020787us
+Havlak: iterations=1 runtime: 21533360us
+Havlak: iterations=1 runtime: 17595152us
+Havlak: iterations=1 runtime: 11957356us
+Havlak: iterations=1 runtime: 8501528us
+Havlak: iterations=1 runtime: 7379299us
+Havlak: iterations=1 runtime: 7362189us
+Havlak: iterations=1 runtime: 7097845us
+Havlak: iterations=1 runtime: 7398976us
+Havlak: iterations=1 runtime: 7974073us
+Havlak: iterations=10 average: 10282056us total: 102820565us
+
+
+Total Runtime: 102820565us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 6903532us
+Havlak: iterations=1 runtime: 6772617us
+Havlak: iterations=1 runtime: 7447650us
+Havlak: iterations=1 runtime: 6873568us
+Havlak: iterations=1 runtime: 6449168us
+Havlak: iterations=1 runtime: 6040988us
+Havlak: iterations=1 runtime: 6292742us
+Havlak: iterations=1 runtime: 6070788us
+Havlak: iterations=1 runtime: 6363705us
+Havlak: iterations=1 runtime: 7222571us
+Havlak: iterations=10 average: 6643733us total: 66437329us
+
+
+Total Runtime: 66437329us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 6033018us
+Havlak: iterations=1 runtime: 6097589us
+Havlak: iterations=1 runtime: 5884961us
+Havlak: iterations=1 runtime: 6242448us
+Havlak: iterations=1 runtime: 6181596us
+Havlak: iterations=1 runtime: 6182924us
+Havlak: iterations=1 runtime: 6187470us
+Havlak: iterations=1 runtime: 5893966us
+Havlak: iterations=1 runtime: 6261211us
+Havlak: iterations=1 runtime: 6813839us
+Havlak: iterations=10 average: 6177902us total: 61779022us
+
+
+Total Runtime: 61779022us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5593500us
+Havlak: iterations=1 runtime: 6114454us
+Havlak: iterations=1 runtime: 6082985us
+Havlak: iterations=1 runtime: 6428088us
+Havlak: iterations=1 runtime: 6148481us
+Havlak: iterations=1 runtime: 6116723us
+Havlak: iterations=1 runtime: 6200112us
+Havlak: iterations=1 runtime: 6154326us
+Havlak: iterations=1 runtime: 6270044us
+Havlak: iterations=1 runtime: 6677570us
+Havlak: iterations=10 average: 6178628us total: 61786283us
+
+
+Total Runtime: 61786283us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5634366us
+Havlak: iterations=1 runtime: 6362788us
+Havlak: iterations=1 runtime: 6716335us
+Havlak: iterations=1 runtime: 6443518us
+Havlak: iterations=1 runtime: 6367619us
+Havlak: iterations=1 runtime: 6450196us
+Havlak: iterations=1 runtime: 6032646us
+Havlak: iterations=1 runtime: 5884730us
+Havlak: iterations=1 runtime: 6212827us
+Havlak: iterations=1 runtime: 6214489us
+Havlak: iterations=10 average: 6231951us total: 62319514us
+
+
+Total Runtime: 62319514us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5840497us
+Havlak: iterations=1 runtime: 6098812us
+Havlak: iterations=1 runtime: 6503724us
+Havlak: iterations=1 runtime: 6897675us
+Havlak: iterations=1 runtime: 6627785us
+Havlak: iterations=1 runtime: 6453028us
+Havlak: iterations=1 runtime: 6352953us
+Havlak: iterations=1 runtime: 6420302us
+Havlak: iterations=1 runtime: 6215074us
+Havlak: iterations=1 runtime: 6277217us
+Havlak: iterations=10 average: 6368707us total: 63687067us
+
+
+Total Runtime: 63687067us
+Starting Havlak benchmark ...
+Havlak: iterations=1 runtime: 5668924us
+Havlak: iterations=1 runtime: 5976313us
+Havlak: iterations=1 runtime: 6137483us
+Havlak: iterations=1 runtime: 6532200us
+Havlak: iterations=1 runtime: 6232979us
+Havlak: iterations=1 runtime: 5818073us
+Havlak: iterations=1 runtime: 6142637us
+Havlak: iterations=1 runtime: 6482729us
+Havlak: iterations=1 runtime: 6120492us
+Havlak: iterations=1 runtime: 6266924us
+Havlak: iterations=10 average: 6137875us total: 61378754us
+
+
+Total Runtime: 61378754us
+  Time (mean ± σ):     64.120 s ± 10.924 s    [User: 62.147 s, System: 1.882 s]
+  Range (min … max):   58.540 s … 102.886 s    15 runs
+ 

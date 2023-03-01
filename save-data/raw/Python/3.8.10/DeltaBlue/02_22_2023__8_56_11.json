@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "command": "C:\\Users\\test\\Documents\\research\\research\\artifacts\\installed\\python\\python.exe C:\\Users\\test\\Documents\\research\\research\\artifacts\\system\\are-we-fast-yet\\benchmarks\\Python\\harness.py DeltaBlue 10 15",
+      "mean": 0.067464462,
+      "stddev": 0.002681824928024093,
+      "median": 0.067107982,
+      "user": 0.037812500000000006,
+      "system": 0.023041666666666665,
+      "min": 0.062709182,
+      "max": 0.073718282,
+      "times": [
+        0.066631782,
+        0.067717782,
+        0.068803482,
+        0.067107982,
+        0.067928882,
+        0.070084982,
+        0.06753648200000001,
+        0.073718282,
+        0.062709182,
+        0.07045388200000001,
+        0.066272382,
+        0.066692482,
+        0.066873882,
+        0.065903182,
+        0.063532282
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

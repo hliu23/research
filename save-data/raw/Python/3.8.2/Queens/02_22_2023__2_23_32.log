@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py Queens 10 15
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 43103us
+Queens: iterations=1 runtime: 43970us
+Queens: iterations=1 runtime: 43077us
+Queens: iterations=1 runtime: 43381us
+Queens: iterations=1 runtime: 55489us
+Queens: iterations=1 runtime: 45169us
+Queens: iterations=1 runtime: 44341us
+Queens: iterations=1 runtime: 42944us
+Queens: iterations=1 runtime: 42857us
+Queens: iterations=1 runtime: 43251us
+Queens: iterations=10 average: 44758us total: 447582us
+
+
+Total Runtime: 447582us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 42131us
+Queens: iterations=1 runtime: 41789us
+Queens: iterations=1 runtime: 42654us
+Queens: iterations=1 runtime: 43019us
+Queens: iterations=1 runtime: 43334us
+Queens: iterations=1 runtime: 43736us
+Queens: iterations=1 runtime: 43770us
+Queens: iterations=1 runtime: 43829us
+Queens: iterations=1 runtime: 44148us
+Queens: iterations=1 runtime: 43181us
+Queens: iterations=10 average: 43159us total: 431591us
+
+
+Total Runtime: 431591us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 41778us
+Queens: iterations=1 runtime: 43551us
+Queens: iterations=1 runtime: 43288us
+Queens: iterations=1 runtime: 41529us
+Queens: iterations=1 runtime: 41801us
+Queens: iterations=1 runtime: 41538us
+Queens: iterations=1 runtime: 41542us
+Queens: iterations=1 runtime: 41510us
+Queens: iterations=1 runtime: 41518us
+Queens: iterations=1 runtime: 41523us
+Queens: iterations=10 average: 41958us total: 419578us
+
+
+Total Runtime: 419578us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 42667us
+Queens: iterations=1 runtime: 42787us
+Queens: iterations=1 runtime: 43248us
+Queens: iterations=1 runtime: 44011us
+Queens: iterations=1 runtime: 44372us
+Queens: iterations=1 runtime: 44593us
+Queens: iterations=1 runtime: 44808us
+Queens: iterations=1 runtime: 44518us
+Queens: iterations=1 runtime: 44647us
+Queens: iterations=1 runtime: 45027us
+Queens: iterations=10 average: 44068us total: 440678us
+
+
+Total Runtime: 440678us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 43210us
+Queens: iterations=1 runtime: 44413us
+Queens: iterations=1 runtime: 44444us
+Queens: iterations=1 runtime: 44497us
+Queens: iterations=1 runtime: 44762us
+Queens: iterations=1 runtime: 44571us
+Queens: iterations=1 runtime: 44570us
+Queens: iterations=1 runtime: 66125us
+Queens: iterations=1 runtime: 58700us
+Queens: iterations=1 runtime: 65696us
+Queens: iterations=10 average: 50099us total: 500988us
+
+
+Total Runtime: 500988us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 64012us
+Queens: iterations=1 runtime: 41970us
+Queens: iterations=1 runtime: 43068us
+Queens: iterations=1 runtime: 43830us
+Queens: iterations=1 runtime: 43858us
+Queens: iterations=1 runtime: 44036us
+Queens: iterations=1 runtime: 58671us
+Queens: iterations=1 runtime: 53905us
+Queens: iterations=1 runtime: 43360us
+Queens: iterations=1 runtime: 43655us
+Queens: iterations=10 average: 48036us total: 480365us
+
+
+Total Runtime: 480365us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 42434us
+Queens: iterations=1 runtime: 43505us
+Queens: iterations=1 runtime: 43601us
+Queens: iterations=1 runtime: 43965us
+Queens: iterations=1 runtime: 43653us
+Queens: iterations=1 runtime: 43823us
+Queens: iterations=1 runtime: 43589us
+Queens: iterations=1 runtime: 65537us
+Queens: iterations=1 runtime: 49233us
+Queens: iterations=1 runtime: 43381us
+Queens: iterations=10 average: 46272us total: 462721us
+
+
+Total Runtime: 462721us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 80040us
+Queens: iterations=1 runtime: 46634us
+Queens: iterations=1 runtime: 50605us
+Queens: iterations=1 runtime: 55850us
+Queens: iterations=1 runtime: 78204us
+Queens: iterations=1 runtime: 52189us
+Queens: iterations=1 runtime: 70908us
+Queens: iterations=1 runtime: 98530us
+Queens: iterations=1 runtime: 64153us
+Queens: iterations=1 runtime: 82470us
+Queens: iterations=10 average: 67958us total: 679583us
+
+
+Total Runtime: 679583us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 41524us
+Queens: iterations=1 runtime: 65972us
+Queens: iterations=1 runtime: 66806us
+Queens: iterations=1 runtime: 46410us
+Queens: iterations=1 runtime: 62902us
+Queens: iterations=1 runtime: 78715us
+Queens: iterations=1 runtime: 41485us
+Queens: iterations=1 runtime: 41450us
+Queens: iterations=1 runtime: 41455us
+Queens: iterations=1 runtime: 41428us
+Queens: iterations=10 average: 52815us total: 528147us
+
+
+Total Runtime: 528147us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 42212us
+Queens: iterations=1 runtime: 41872us
+Queens: iterations=1 runtime: 48659us
+Queens: iterations=1 runtime: 41644us
+Queens: iterations=1 runtime: 55718us
+Queens: iterations=1 runtime: 62519us
+Queens: iterations=1 runtime: 41825us
+Queens: iterations=1 runtime: 41536us
+Queens: iterations=1 runtime: 41658us
+Queens: iterations=1 runtime: 46457us
+Queens: iterations=10 average: 46410us total: 464100us
+
+
+Total Runtime: 464100us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 41300us
+Queens: iterations=1 runtime: 41594us
+Queens: iterations=1 runtime: 49434us
+Queens: iterations=1 runtime: 43520us
+Queens: iterations=1 runtime: 43198us
+Queens: iterations=1 runtime: 43350us
+Queens: iterations=1 runtime: 43713us
+Queens: iterations=1 runtime: 43741us
+Queens: iterations=1 runtime: 43597us
+Queens: iterations=1 runtime: 43633us
+Queens: iterations=10 average: 43708us total: 437080us
+
+
+Total Runtime: 437080us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 42942us
+Queens: iterations=1 runtime: 44150us
+Queens: iterations=1 runtime: 44180us
+Queens: iterations=1 runtime: 44223us
+Queens: iterations=1 runtime: 44300us
+Queens: iterations=1 runtime: 44247us
+Queens: iterations=1 runtime: 44023us
+Queens: iterations=1 runtime: 44310us
+Queens: iterations=1 runtime: 42859us
+Queens: iterations=1 runtime: 41882us
+Queens: iterations=10 average: 43712us total: 437116us
+
+
+Total Runtime: 437116us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 43667us
+Queens: iterations=1 runtime: 51728us
+Queens: iterations=1 runtime: 45550us
+Queens: iterations=1 runtime: 45765us
+Queens: iterations=1 runtime: 45650us
+Queens: iterations=1 runtime: 45556us
+Queens: iterations=1 runtime: 45718us
+Queens: iterations=1 runtime: 45498us
+Queens: iterations=1 runtime: 45695us
+Queens: iterations=1 runtime: 45339us
+Queens: iterations=10 average: 46017us total: 460166us
+
+
+Total Runtime: 460166us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 82671us
+Queens: iterations=1 runtime: 51268us
+Queens: iterations=1 runtime: 41644us
+Queens: iterations=1 runtime: 59582us
+Queens: iterations=1 runtime: 46685us
+Queens: iterations=1 runtime: 41494us
+Queens: iterations=1 runtime: 48542us
+Queens: iterations=1 runtime: 64142us
+Queens: iterations=1 runtime: 41509us
+Queens: iterations=1 runtime: 41480us
+Queens: iterations=10 average: 51902us total: 519017us
+
+
+Total Runtime: 519017us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 56811us
+Queens: iterations=1 runtime: 55313us
+Queens: iterations=1 runtime: 41851us
+Queens: iterations=1 runtime: 42099us
+Queens: iterations=1 runtime: 41554us
+Queens: iterations=1 runtime: 41388us
+Queens: iterations=1 runtime: 41405us
+Queens: iterations=1 runtime: 41865us
+Queens: iterations=1 runtime: 42336us
+Queens: iterations=1 runtime: 44248us
+Queens: iterations=10 average: 44887us total: 448870us
+
+
+Total Runtime: 448870us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 54706us
+Queens: iterations=1 runtime: 41777us
+Queens: iterations=1 runtime: 41727us
+Queens: iterations=1 runtime: 41941us
+Queens: iterations=1 runtime: 41711us
+Queens: iterations=1 runtime: 41667us
+Queens: iterations=1 runtime: 41676us
+Queens: iterations=1 runtime: 41742us
+Queens: iterations=1 runtime: 41749us
+Queens: iterations=1 runtime: 42030us
+Queens: iterations=10 average: 43073us total: 430726us
+
+
+Total Runtime: 430726us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 41383us
+Queens: iterations=1 runtime: 58991us
+Queens: iterations=1 runtime: 42032us
+Queens: iterations=1 runtime: 42826us
+Queens: iterations=1 runtime: 43330us
+Queens: iterations=1 runtime: 50264us
+Queens: iterations=1 runtime: 43616us
+Queens: iterations=1 runtime: 43635us
+Queens: iterations=1 runtime: 43839us
+Queens: iterations=1 runtime: 43872us
+Queens: iterations=10 average: 45379us total: 453788us
+
+
+Total Runtime: 453788us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 42945us
+Queens: iterations=1 runtime: 49819us
+Queens: iterations=1 runtime: 42118us
+Queens: iterations=1 runtime: 42357us
+Queens: iterations=1 runtime: 42137us
+Queens: iterations=1 runtime: 42222us
+Queens: iterations=1 runtime: 42119us
+Queens: iterations=1 runtime: 42090us
+Queens: iterations=1 runtime: 42121us
+Queens: iterations=1 runtime: 42094us
+Queens: iterations=10 average: 43002us total: 430022us
+
+
+Total Runtime: 430022us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 41438us
+Queens: iterations=1 runtime: 48349us
+Queens: iterations=1 runtime: 58806us
+Queens: iterations=1 runtime: 42316us
+Queens: iterations=1 runtime: 42962us
+Queens: iterations=1 runtime: 43555us
+Queens: iterations=1 runtime: 43392us
+Queens: iterations=1 runtime: 43590us
+Queens: iterations=1 runtime: 43663us
+Queens: iterations=1 runtime: 43876us
+Queens: iterations=10 average: 45195us total: 451947us
+
+
+Total Runtime: 451947us
+Starting Queens benchmark ...
+Queens: iterations=1 runtime: 62562us
+Queens: iterations=1 runtime: 41111us
+Queens: iterations=1 runtime: 63620us
+Queens: iterations=1 runtime: 46096us
+Queens: iterations=1 runtime: 44038us
+Queens: iterations=1 runtime: 44179us
+Queens: iterations=1 runtime: 44296us
+Queens: iterations=1 runtime: 43559us
+Queens: iterations=1 runtime: 43955us
+Queens: iterations=1 runtime: 43546us
+Queens: iterations=10 average: 47696us total: 476962us
+
+
+Total Runtime: 476962us
+  Time (mean ± σ):     515.0 ms ±  61.4 ms    [User: 495.2 ms, System: 14.7 ms]
+  Range (min … max):   471.0 ms … 712.3 ms    15 runs
+ 

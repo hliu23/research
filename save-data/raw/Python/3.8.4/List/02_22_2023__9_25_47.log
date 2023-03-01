@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py List 10 15
+Starting List benchmark ...
+List: iterations=1 runtime: 26290us
+List: iterations=1 runtime: 26476us
+List: iterations=1 runtime: 26688us
+List: iterations=1 runtime: 25824us
+List: iterations=1 runtime: 25416us
+List: iterations=1 runtime: 25044us
+List: iterations=1 runtime: 25159us
+List: iterations=1 runtime: 25084us
+List: iterations=1 runtime: 25040us
+List: iterations=1 runtime: 25019us
+List: iterations=10 average: 25604us total: 256040us
+
+
+Total Runtime: 256040us
+Starting List benchmark ...
+List: iterations=1 runtime: 25070us
+List: iterations=1 runtime: 25017us
+List: iterations=1 runtime: 25161us
+List: iterations=1 runtime: 27114us
+List: iterations=1 runtime: 25140us
+List: iterations=1 runtime: 45772us
+List: iterations=1 runtime: 25615us
+List: iterations=1 runtime: 25283us
+List: iterations=1 runtime: 25160us
+List: iterations=1 runtime: 25109us
+List: iterations=10 average: 27444us total: 274441us
+
+
+Total Runtime: 274441us
+Starting List benchmark ...
+List: iterations=1 runtime: 25165us
+List: iterations=1 runtime: 25413us
+List: iterations=1 runtime: 25403us
+List: iterations=1 runtime: 25355us
+List: iterations=1 runtime: 25406us
+List: iterations=1 runtime: 25380us
+List: iterations=1 runtime: 25328us
+List: iterations=1 runtime: 33639us
+List: iterations=1 runtime: 25327us
+List: iterations=1 runtime: 25285us
+List: iterations=10 average: 26170us total: 261701us
+
+
+Total Runtime: 261701us
+Starting List benchmark ...
+List: iterations=1 runtime: 24935us
+List: iterations=1 runtime: 34626us
+List: iterations=1 runtime: 25018us
+List: iterations=1 runtime: 25863us
+List: iterations=1 runtime: 25062us
+List: iterations=1 runtime: 25012us
+List: iterations=1 runtime: 25061us
+List: iterations=1 runtime: 25004us
+List: iterations=1 runtime: 25007us
+List: iterations=1 runtime: 25117us
+List: iterations=10 average: 26070us total: 260705us
+
+
+Total Runtime: 260705us
+Starting List benchmark ...
+List: iterations=1 runtime: 25471us
+List: iterations=1 runtime: 25336us
+List: iterations=1 runtime: 25343us
+List: iterations=1 runtime: 25295us
+List: iterations=1 runtime: 25516us
+List: iterations=1 runtime: 34827us
+List: iterations=1 runtime: 25599us
+List: iterations=1 runtime: 25364us
+List: iterations=1 runtime: 25838us
+List: iterations=1 runtime: 34913us
+List: iterations=10 average: 27350us total: 273502us
+
+
+Total Runtime: 273502us
+Starting List benchmark ...
+List: iterations=1 runtime: 25063us
+List: iterations=1 runtime: 25037us
+List: iterations=1 runtime: 25079us
+List: iterations=1 runtime: 24991us
+List: iterations=1 runtime: 24980us
+List: iterations=1 runtime: 24952us
+List: iterations=1 runtime: 34574us
+List: iterations=1 runtime: 24964us
+List: iterations=1 runtime: 25320us
+List: iterations=1 runtime: 25250us
+List: iterations=10 average: 26021us total: 260210us
+
+
+Total Runtime: 260210us
+Starting List benchmark ...
+List: iterations=1 runtime: 34593us
+List: iterations=1 runtime: 25066us
+List: iterations=1 runtime: 25162us
+List: iterations=1 runtime: 34836us
+List: iterations=1 runtime: 25043us
+List: iterations=1 runtime: 34649us
+List: iterations=1 runtime: 25138us
+List: iterations=1 runtime: 25105us
+List: iterations=1 runtime: 25057us
+List: iterations=1 runtime: 34638us
+List: iterations=10 average: 28929us total: 289287us
+
+
+Total Runtime: 289287us
+Starting List benchmark ...
+List: iterations=1 runtime: 26158us
+List: iterations=1 runtime: 25936us
+List: iterations=1 runtime: 26060us
+List: iterations=1 runtime: 25971us
+List: iterations=1 runtime: 25915us
+List: iterations=1 runtime: 25860us
+List: iterations=1 runtime: 26026us
+List: iterations=1 runtime: 25898us
+List: iterations=1 runtime: 25914us
+List: iterations=1 runtime: 35328us
+List: iterations=10 average: 26907us total: 269066us
+
+
+Total Runtime: 269066us
+Starting List benchmark ...
+List: iterations=1 runtime: 24915us
+List: iterations=1 runtime: 24899us
+List: iterations=1 runtime: 25239us
+List: iterations=1 runtime: 25045us
+List: iterations=1 runtime: 25058us
+List: iterations=1 runtime: 24977us
+List: iterations=1 runtime: 25097us
+List: iterations=1 runtime: 24971us
+List: iterations=1 runtime: 24979us
+List: iterations=1 runtime: 25143us
+List: iterations=10 average: 25032us total: 250323us
+
+
+Total Runtime: 250323us
+Starting List benchmark ...
+List: iterations=1 runtime: 27264us
+List: iterations=1 runtime: 25159us
+List: iterations=1 runtime: 25315us
+List: iterations=1 runtime: 25141us
+List: iterations=1 runtime: 34696us
+List: iterations=1 runtime: 25150us
+List: iterations=1 runtime: 25267us
+List: iterations=1 runtime: 25131us
+List: iterations=1 runtime: 25174us
+List: iterations=1 runtime: 25145us
+List: iterations=10 average: 26344us total: 263442us
+
+
+Total Runtime: 263442us
+Starting List benchmark ...
+List: iterations=1 runtime: 25072us
+List: iterations=1 runtime: 25328us
+List: iterations=1 runtime: 25313us
+List: iterations=1 runtime: 25098us
+List: iterations=1 runtime: 25382us
+List: iterations=1 runtime: 24993us
+List: iterations=1 runtime: 25396us
+List: iterations=1 runtime: 24977us
+List: iterations=1 runtime: 25287us
+List: iterations=1 runtime: 25264us
+List: iterations=10 average: 25211us total: 252110us
+
+
+Total Runtime: 252110us
+Starting List benchmark ...
+List: iterations=1 runtime: 25213us
+List: iterations=1 runtime: 44773us
+List: iterations=1 runtime: 34713us
+List: iterations=1 runtime: 27917us
+List: iterations=1 runtime: 33097us
+List: iterations=1 runtime: 25216us
+List: iterations=1 runtime: 25379us
+List: iterations=1 runtime: 25408us
+List: iterations=1 runtime: 25350us
+List: iterations=1 runtime: 25143us
+List: iterations=10 average: 29221us total: 292209us
+
+
+Total Runtime: 292209us
+Starting List benchmark ...
+List: iterations=1 runtime: 25055us
+List: iterations=1 runtime: 25016us
+List: iterations=1 runtime: 26269us
+List: iterations=1 runtime: 25114us
+List: iterations=1 runtime: 25128us
+List: iterations=1 runtime: 25102us
+List: iterations=1 runtime: 25395us
+List: iterations=1 runtime: 25297us
+List: iterations=1 runtime: 25185us
+List: iterations=1 runtime: 25115us
+List: iterations=10 average: 25268us total: 252676us
+
+
+Total Runtime: 252676us
+Starting List benchmark ...
+List: iterations=1 runtime: 24992us
+List: iterations=1 runtime: 24773us
+List: iterations=1 runtime: 24767us
+List: iterations=1 runtime: 24745us
+List: iterations=1 runtime: 25318us
+List: iterations=1 runtime: 25047us
+List: iterations=1 runtime: 24915us
+List: iterations=1 runtime: 25230us
+List: iterations=1 runtime: 28300us
+List: iterations=1 runtime: 24841us
+List: iterations=10 average: 25293us total: 252928us
+
+
+Total Runtime: 252928us
+Starting List benchmark ...
+List: iterations=1 runtime: 25526us
+List: iterations=1 runtime: 25490us
+List: iterations=1 runtime: 25868us
+List: iterations=1 runtime: 25639us
+List: iterations=1 runtime: 25607us
+List: iterations=1 runtime: 35126us
+List: iterations=1 runtime: 26156us
+List: iterations=1 runtime: 25697us
+List: iterations=1 runtime: 25609us
+List: iterations=1 runtime: 25606us
+List: iterations=10 average: 26632us total: 266324us
+
+
+Total Runtime: 266324us
+Starting List benchmark ...
+List: iterations=1 runtime: 25083us
+List: iterations=1 runtime: 43604us
+List: iterations=1 runtime: 25172us
+List: iterations=1 runtime: 25071us
+List: iterations=1 runtime: 33072us
+List: iterations=1 runtime: 26226us
+List: iterations=1 runtime: 25159us
+List: iterations=1 runtime: 25047us
+List: iterations=1 runtime: 25155us
+List: iterations=1 runtime: 25215us
+List: iterations=10 average: 27880us total: 278804us
+
+
+Total Runtime: 278804us
+Starting List benchmark ...
+List: iterations=1 runtime: 24895us
+List: iterations=1 runtime: 24949us
+List: iterations=1 runtime: 25131us
+List: iterations=1 runtime: 24967us
+List: iterations=1 runtime: 24941us
+List: iterations=1 runtime: 24970us
+List: iterations=1 runtime: 25074us
+List: iterations=1 runtime: 24962us
+List: iterations=1 runtime: 24976us
+List: iterations=1 runtime: 25423us
+List: iterations=10 average: 25029us total: 250288us
+
+
+Total Runtime: 250288us
+Starting List benchmark ...
+List: iterations=1 runtime: 25076us
+List: iterations=1 runtime: 25107us
+List: iterations=1 runtime: 25147us
+List: iterations=1 runtime: 25139us
+List: iterations=1 runtime: 25162us
+List: iterations=1 runtime: 25125us
+List: iterations=1 runtime: 25400us
+List: iterations=1 runtime: 25094us
+List: iterations=1 runtime: 25231us
+List: iterations=1 runtime: 25470us
+List: iterations=10 average: 25195us total: 251951us
+
+
+Total Runtime: 251951us
+Starting List benchmark ...
+List: iterations=1 runtime: 25789us
+List: iterations=1 runtime: 25738us
+List: iterations=1 runtime: 25871us
+List: iterations=1 runtime: 25881us
+List: iterations=1 runtime: 25877us
+List: iterations=1 runtime: 25844us
+List: iterations=1 runtime: 26249us
+List: iterations=1 runtime: 26490us
+List: iterations=1 runtime: 25874us
+List: iterations=1 runtime: 25851us
+List: iterations=10 average: 25946us total: 259464us
+
+
+Total Runtime: 259464us
+Starting List benchmark ...
+List: iterations=1 runtime: 24958us
+List: iterations=1 runtime: 25225us
+List: iterations=1 runtime: 25467us
+List: iterations=1 runtime: 25049us
+List: iterations=1 runtime: 25069us
+List: iterations=1 runtime: 25072us
+List: iterations=1 runtime: 25207us
+List: iterations=1 runtime: 25111us
+List: iterations=1 runtime: 25051us
+List: iterations=1 runtime: 25057us
+List: iterations=10 average: 25127us total: 251266us
+
+
+Total Runtime: 251266us
+  Time (mean ± σ):     301.5 ms ±  14.1 ms    [User: 277.3 ms, System: 19.9 ms]
+  Range (min … max):   288.0 ms … 330.8 ms    15 runs
+ 

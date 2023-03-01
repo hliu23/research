@@ -1,0 +1,304 @@
+Benchmark 1: C:\Users\test\Documents\research\research\artifacts\installed\python\python.exe C:\Users\test\Documents\research\research\artifacts\system\are-we-fast-yet\benchmarks\Python\harness.py Bounce 10 15
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 37310us
+Bounce: iterations=1 runtime: 36505us
+Bounce: iterations=1 runtime: 36350us
+Bounce: iterations=1 runtime: 44452us
+Bounce: iterations=1 runtime: 37243us
+Bounce: iterations=1 runtime: 37337us
+Bounce: iterations=1 runtime: 36998us
+Bounce: iterations=1 runtime: 36978us
+Bounce: iterations=1 runtime: 37030us
+Bounce: iterations=1 runtime: 53015us
+Bounce: iterations=10 average: 39322us total: 393218us
+
+
+Total Runtime: 393218us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 48836us
+Bounce: iterations=1 runtime: 38842us
+Bounce: iterations=1 runtime: 36951us
+Bounce: iterations=1 runtime: 36947us
+Bounce: iterations=1 runtime: 36986us
+Bounce: iterations=1 runtime: 36944us
+Bounce: iterations=1 runtime: 36715us
+Bounce: iterations=1 runtime: 36919us
+Bounce: iterations=1 runtime: 37204us
+Bounce: iterations=1 runtime: 36507us
+Bounce: iterations=10 average: 38285us total: 382851us
+
+
+Total Runtime: 382851us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36108us
+Bounce: iterations=1 runtime: 37022us
+Bounce: iterations=1 runtime: 37084us
+Bounce: iterations=1 runtime: 37061us
+Bounce: iterations=1 runtime: 37149us
+Bounce: iterations=1 runtime: 37141us
+Bounce: iterations=1 runtime: 37101us
+Bounce: iterations=1 runtime: 37053us
+Bounce: iterations=1 runtime: 37067us
+Bounce: iterations=1 runtime: 37073us
+Bounce: iterations=10 average: 36986us total: 369859us
+
+
+Total Runtime: 369859us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36531us
+Bounce: iterations=1 runtime: 38183us
+Bounce: iterations=1 runtime: 37369us
+Bounce: iterations=1 runtime: 37434us
+Bounce: iterations=1 runtime: 44848us
+Bounce: iterations=1 runtime: 37482us
+Bounce: iterations=1 runtime: 37485us
+Bounce: iterations=1 runtime: 37474us
+Bounce: iterations=1 runtime: 37301us
+Bounce: iterations=1 runtime: 37452us
+Bounce: iterations=10 average: 38156us total: 381559us
+
+
+Total Runtime: 381559us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 35984us
+Bounce: iterations=1 runtime: 36672us
+Bounce: iterations=1 runtime: 38152us
+Bounce: iterations=1 runtime: 41728us
+Bounce: iterations=1 runtime: 40818us
+Bounce: iterations=1 runtime: 41040us
+Bounce: iterations=1 runtime: 42380us
+Bounce: iterations=1 runtime: 40849us
+Bounce: iterations=1 runtime: 41422us
+Bounce: iterations=1 runtime: 41889us
+Bounce: iterations=10 average: 40093us total: 400934us
+
+
+Total Runtime: 400934us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 35668us
+Bounce: iterations=1 runtime: 36213us
+Bounce: iterations=1 runtime: 36032us
+Bounce: iterations=1 runtime: 35689us
+Bounce: iterations=1 runtime: 37008us
+Bounce: iterations=1 runtime: 36599us
+Bounce: iterations=1 runtime: 36639us
+Bounce: iterations=1 runtime: 36294us
+Bounce: iterations=1 runtime: 36603us
+Bounce: iterations=1 runtime: 43902us
+Bounce: iterations=10 average: 37065us total: 370647us
+
+
+Total Runtime: 370647us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36677us
+Bounce: iterations=1 runtime: 37313us
+Bounce: iterations=1 runtime: 37919us
+Bounce: iterations=1 runtime: 37728us
+Bounce: iterations=1 runtime: 37787us
+Bounce: iterations=1 runtime: 37637us
+Bounce: iterations=1 runtime: 37681us
+Bounce: iterations=1 runtime: 37696us
+Bounce: iterations=1 runtime: 37687us
+Bounce: iterations=1 runtime: 37682us
+Bounce: iterations=10 average: 37581us total: 375807us
+
+
+Total Runtime: 375807us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36096us
+Bounce: iterations=1 runtime: 36299us
+Bounce: iterations=1 runtime: 37164us
+Bounce: iterations=1 runtime: 37025us
+Bounce: iterations=1 runtime: 37111us
+Bounce: iterations=1 runtime: 37060us
+Bounce: iterations=1 runtime: 37084us
+Bounce: iterations=1 runtime: 36835us
+Bounce: iterations=1 runtime: 36859us
+Bounce: iterations=1 runtime: 37076us
+Bounce: iterations=10 average: 36861us total: 368609us
+
+
+Total Runtime: 368609us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36831us
+Bounce: iterations=1 runtime: 37112us
+Bounce: iterations=1 runtime: 37032us
+Bounce: iterations=1 runtime: 44566us
+Bounce: iterations=1 runtime: 37106us
+Bounce: iterations=1 runtime: 36929us
+Bounce: iterations=1 runtime: 37163us
+Bounce: iterations=1 runtime: 37153us
+Bounce: iterations=1 runtime: 37145us
+Bounce: iterations=1 runtime: 37265us
+Bounce: iterations=10 average: 37830us total: 378302us
+
+
+Total Runtime: 378302us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36888us
+Bounce: iterations=1 runtime: 37008us
+Bounce: iterations=1 runtime: 37721us
+Bounce: iterations=1 runtime: 45244us
+Bounce: iterations=1 runtime: 38009us
+Bounce: iterations=1 runtime: 37787us
+Bounce: iterations=1 runtime: 37745us
+Bounce: iterations=1 runtime: 37772us
+Bounce: iterations=1 runtime: 37794us
+Bounce: iterations=1 runtime: 37851us
+Bounce: iterations=10 average: 38382us total: 383819us
+
+
+Total Runtime: 383819us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 35833us
+Bounce: iterations=1 runtime: 36352us
+Bounce: iterations=1 runtime: 36827us
+Bounce: iterations=1 runtime: 36823us
+Bounce: iterations=1 runtime: 36815us
+Bounce: iterations=1 runtime: 36819us
+Bounce: iterations=1 runtime: 36606us
+Bounce: iterations=1 runtime: 43743us
+Bounce: iterations=1 runtime: 36841us
+Bounce: iterations=1 runtime: 36866us
+Bounce: iterations=10 average: 37352us total: 373525us
+
+
+Total Runtime: 373525us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36182us
+Bounce: iterations=1 runtime: 37048us
+Bounce: iterations=1 runtime: 44817us
+Bounce: iterations=1 runtime: 37390us
+Bounce: iterations=1 runtime: 37274us
+Bounce: iterations=1 runtime: 37098us
+Bounce: iterations=1 runtime: 36751us
+Bounce: iterations=1 runtime: 37085us
+Bounce: iterations=1 runtime: 37098us
+Bounce: iterations=1 runtime: 44045us
+Bounce: iterations=10 average: 38479us total: 384788us
+
+
+Total Runtime: 384788us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 35941us
+Bounce: iterations=1 runtime: 36682us
+Bounce: iterations=1 runtime: 36642us
+Bounce: iterations=1 runtime: 37581us
+Bounce: iterations=1 runtime: 36701us
+Bounce: iterations=1 runtime: 36936us
+Bounce: iterations=1 runtime: 36649us
+Bounce: iterations=1 runtime: 36659us
+Bounce: iterations=1 runtime: 36644us
+Bounce: iterations=1 runtime: 36687us
+Bounce: iterations=10 average: 36712us total: 367122us
+
+
+Total Runtime: 367122us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 43819us
+Bounce: iterations=1 runtime: 37017us
+Bounce: iterations=1 runtime: 37167us
+Bounce: iterations=1 runtime: 37171us
+Bounce: iterations=1 runtime: 37304us
+Bounce: iterations=1 runtime: 37132us
+Bounce: iterations=1 runtime: 37190us
+Bounce: iterations=1 runtime: 43347us
+Bounce: iterations=1 runtime: 40444us
+Bounce: iterations=1 runtime: 40790us
+Bounce: iterations=10 average: 39138us total: 391381us
+
+
+Total Runtime: 391381us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36717us
+Bounce: iterations=1 runtime: 37528us
+Bounce: iterations=1 runtime: 37736us
+Bounce: iterations=1 runtime: 37673us
+Bounce: iterations=1 runtime: 38138us
+Bounce: iterations=1 runtime: 38186us
+Bounce: iterations=1 runtime: 44406us
+Bounce: iterations=1 runtime: 37702us
+Bounce: iterations=1 runtime: 37662us
+Bounce: iterations=1 runtime: 37810us
+Bounce: iterations=10 average: 38356us total: 383558us
+
+
+Total Runtime: 383558us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36776us
+Bounce: iterations=1 runtime: 37754us
+Bounce: iterations=1 runtime: 38196us
+Bounce: iterations=1 runtime: 37646us
+Bounce: iterations=1 runtime: 37750us
+Bounce: iterations=1 runtime: 37667us
+Bounce: iterations=1 runtime: 37680us
+Bounce: iterations=1 runtime: 37792us
+Bounce: iterations=1 runtime: 37820us
+Bounce: iterations=1 runtime: 42968us
+Bounce: iterations=10 average: 38205us total: 382049us
+
+
+Total Runtime: 382049us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 34958us
+Bounce: iterations=1 runtime: 43454us
+Bounce: iterations=1 runtime: 35685us
+Bounce: iterations=1 runtime: 35746us
+Bounce: iterations=1 runtime: 35837us
+Bounce: iterations=1 runtime: 35772us
+Bounce: iterations=1 runtime: 35728us
+Bounce: iterations=1 runtime: 35760us
+Bounce: iterations=1 runtime: 35751us
+Bounce: iterations=1 runtime: 35844us
+Bounce: iterations=10 average: 36454us total: 364535us
+
+
+Total Runtime: 364535us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36099us
+Bounce: iterations=1 runtime: 36884us
+Bounce: iterations=1 runtime: 37039us
+Bounce: iterations=1 runtime: 37036us
+Bounce: iterations=1 runtime: 37077us
+Bounce: iterations=1 runtime: 37064us
+Bounce: iterations=1 runtime: 37012us
+Bounce: iterations=1 runtime: 37424us
+Bounce: iterations=1 runtime: 37049us
+Bounce: iterations=1 runtime: 37042us
+Bounce: iterations=10 average: 36973us total: 369726us
+
+
+Total Runtime: 369726us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 36003us
+Bounce: iterations=1 runtime: 44212us
+Bounce: iterations=1 runtime: 36826us
+Bounce: iterations=1 runtime: 38097us
+Bounce: iterations=1 runtime: 37377us
+Bounce: iterations=1 runtime: 36909us
+Bounce: iterations=1 runtime: 36881us
+Bounce: iterations=1 runtime: 37033us
+Bounce: iterations=1 runtime: 36891us
+Bounce: iterations=1 runtime: 36908us
+Bounce: iterations=10 average: 37714us total: 377137us
+
+
+Total Runtime: 377137us
+Starting Bounce benchmark ...
+Bounce: iterations=1 runtime: 35931us
+Bounce: iterations=1 runtime: 36769us
+Bounce: iterations=1 runtime: 36931us
+Bounce: iterations=1 runtime: 36894us
+Bounce: iterations=1 runtime: 37002us
+Bounce: iterations=1 runtime: 36906us
+Bounce: iterations=1 runtime: 37162us
+Bounce: iterations=1 runtime: 36993us
+Bounce: iterations=1 runtime: 36878us
+Bounce: iterations=1 runtime: 37546us
+Bounce: iterations=10 average: 36901us total: 369012us
+
+
+Total Runtime: 369012us
+  Time (mean ± σ):     413.5 ms ±   8.1 ms    [User: 389.1 ms, System: 23.0 ms]
+  Range (min … max):   400.8 ms … 427.6 ms    15 runs
+ 
